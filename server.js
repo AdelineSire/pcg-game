@@ -9,6 +9,9 @@ app.use(express.json());
 
 // Controllers
 
+const short = require('./data/short.json');
+const base = require('./data/base.json');
+
 // Routes
 
 // set port, listen for requests
