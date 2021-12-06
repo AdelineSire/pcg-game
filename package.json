@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AdelineSire/learning-accounts-game/issues"
   },
-  "homepage": "https://github.com/AdelineSire/learning-accounts-game#readme"
+  "homepage": "https://github.com/AdelineSire/learning-accounts-game#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
