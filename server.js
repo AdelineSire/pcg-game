@@ -8,11 +8,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // Controllers
-
-const short = require('./data/short.json');
-const base = require('./data/base.json');
+const { short } = require('./controllers');
 
 // Routes
+app.use('/short', short);
 
 // set port, listen for requests
 const PORT = process.env.PORT || 3002;
