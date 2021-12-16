@@ -1,1952 +1,1954 @@
-{
-	"Feuil1": [
-		{
-			"_id": "1",
-			"name": "COMPTES DE CAPITAUX"
-		},
-		{
-			"_id": "10",
-			"name": "Capital et réserves"
-		},
-		{
-			"_id": 101,
-			"name": "Capital"
-		},
-		{
-			"_id": 102,
-			"name": "Fonds fiduciaires"
-		},
-		{
-			"_id": 104,
-			"name": "Primes liées au capital social"
-		},
-		{
-			"_id": 105,
-			"name": "Ecarts de réévaluation "
-		},
-		{
-			"_id": 106,
-			"name": "Réserves"
-		},
-		{
-			"_id": 1061,
-			"name": "Réserve légale "
-		},
-		{
-			"_id": 1062,
-			"name": "Réserves indisponibles"
-		},
-		{
-			"_id": 1063,
-			"name": "Réserves statutaires ou contractuelles "
-		},
-		{
-			"_id": 1064,
-			"name": "Réserves réglementées "
-		},
-		{
-			"_id": 1068,
-			"name": "Autres réserves"
-		},
-		{
-			"_id": 107,
-			"name": "Ecart d'équivalence"
-		},
-		{
-			"_id": 108,
-			"name": "Compte de l'exploitant"
-		},
-		{
-			"_id": 109,
-			"name": "Actionnaires : capital souscrit - non appelé "
-		},
-		{
-			"_id": 11,
-			"name": "Report à nouveau (solde créditeur ou débiteur) "
-		},
-		{
-			"_id": 110,
-			"name": "Report à nouveau (solde créditeur) "
-		},
-		{
-			"_id": 119,
-			"name": "Report à nouveau (solde débiteur) "
-		},
-		{
-			"_id": 12,
-			"name": "Résultat de l'exercice (bénéfice ou perte) "
-		},
-		{
-			"_id": 120,
-			"name": "Résultat de l'exercice (bénéfice) "
-		},
-		{
-			"_id": 129,
-			"name": "Résultat de l'exercice (perte) "
-		},
-		{
-			"_id": 13,
-			"name": "Subventions d'investissement"
-		},
-		{
-			"_id": 131,
-			"name": "Subventions d'équipement"
-		},
-		{
-			"_id": 138,
-			"name": "Autres subventions d'investissement (même ventilation que celle du compte 131) "
-		},
-		{
-			"_id": 139,
-			"name": "Subventions d'investissement inscrites au compte de résultat "
-		},
-		{
-			"_id": 142,
-			"name": "Provisions réglementées relatives aux immobilisations "
-		},
-		{
-			"_id": 143,
-			"name": "Provisions réglementées relatives aux stocks "
-		},
-		{
-			"_id": 144,
-			"name": "Provisions réglementées relatives aux autres éléments de l'actif "
-		},
-		{
-			"_id": 145,
-			"name": "Amortissements dérogatoires"
-		},
-		{
-			"_id": 146,
-			"name": "Provision spéciale de réévaluation "
-		},
-		{
-			"_id": 147,
-			"name": "Plus-values réinvesties "
-		},
-		{
-			"_id": 148,
-			"name": "Autres provisions réglementées "
-		},
-		{
-			"_id": 15,
-			"name": "Provisions"
-		},
-		{
-			"_id": 151,
-			"name": "Provisions pour risques"
-		},
-		{
-			"_id": 153,
-			"name": "Provisions pour pensions et obligations similaires "
-		},
-		{
-			"_id": 154,
-			"name": "Provisions pour restructurations "
-		},
-		{
-			"_id": 155,
-			"name": "Provisions pour impôts"
-		},
-		{
-			"_id": 156,
-			"name": "Provisions pour renouvellement des immobilisations (entreprises concessionnaires) "
-		},
-		{
-			"_id": 157,
-			"name": "Provisions pour charges à répartir sur plusieurs exercices "
-		},
-		{
-			"_id": 158,
-			"name": "Autres provisions pour charges"
-		},
-		{
-			"_id": 16,
-			"name": "Emprunts et dettes assimilées"
-		},
-		{
-			"_id": 161,
-			"name": "Emprunts obligataires convertibles"
-		},
-		{
-			"_id": 162,
-			"name": "Obligations représentatives de passifs nets remis en fiducie"
-		},
-		{
-			"_id": 163,
-			"name": "Autres emprunts obligataires"
-		},
-		{
-			"_id": 164,
-			"name": "Emprunts auprès des établissements de crédit "
-		},
-		{
-			"_id": 165,
-			"name": "Dépôts et cautionnements reçus "
-		},
-		{
-			"_id": 166,
-			"name": "Participation des salariés aux résultats "
-		},
-		{
-			"_id": 167,
-			"name": "Emprunts et dettes assortis de conditions particulières "
-		},
-		{
-			"_id": 168,
-			"name": "Autres emprunts et dettes assimilées "
-		},
-		{
-			"_id": 169,
-			"name": "Primes de remboursement des obligations "
-		},
-		{
-			"_id": 17,
-			"name": "Dettes rattachées à des participations "
-		},
-		{
-			"_id": 171,
-			"name": "Dettes rattachées à des participations (groupe) "
-		},
-		{
-			"_id": 174,
-			"name": "Dettes rattachées à des participations (hors groupe) "
-		},
-		{
-			"_id": 178,
-			"name": "Dettes rattachées à des sociétés en participation "
-		},
-		{
-			"_id": 18,
-			"name": "Comptes de liaison des établissements et sociétés en participation "
-		},
-		{
-			"_id": 181,
-			"name": "Comptes de liaison des établissements "
-		},
-		{
-			"_id": 186,
-			"name": "Biens et prestations de services échangés entre établissements (charges) "
-		},
-		{
-			"_id": 187,
-			"name": "Biens et prestations de services échangés entre établissements (produits) "
-		},
-		{
-			"_id": 188,
-			"name": "Comptes de liaison des sociétés en participation "
-		},
-		{
-			"_id": "2",
-			"name": "COMPTES D'IMMOBILISATIONS"
-		},
-		{
-			"_id": 20,
-			"name": "Immobilisations incorporelles"
-		},
-		{
-			"_id": 201,
-			"name": "Frais d'établissement"
-		},
-		{
-			"_id": 203,
-			"name": "Frais de recherche et de développement "
-		},
-		{
-			"_id": 205,
-			"name": "Concessions et droits similaires, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires "
-		},
-		{
-			"_id": 206,
-			"name": "Droit au bail"
-		},
-		{
-			"_id": 207,
-			"name": "Fonds commercial"
-		},
-		{
-			"_id": 208,
-			"name": "Autres immobilisations incorporelles "
-		},
-		{
-			"_id": 2081,
-			"name": "Mali de fusion sur actifs incorporels"
-		},
-		{
-			"_id": 21,
-			"name": "Immobilisations corporelles"
-		},
-		{
-			"_id": 211,
-			"name": "Terrains "
-		},
-		{
-			"_id": 2111,
-			"name": "Terrains nus"
-		},
-		{
-			"_id": 2112,
-			"name": "Terrains aménagés"
-		},
-		{
-			"_id": 2113,
-			"name": "Sous-sols et sur-sols"
-		},
-		{
-			"_id": 2114,
-			"name": "Terrains de carrières (Tréfonds)"
-		},
-		{
-			"_id": 2115,
-			"name": "Terrains bâtis"
-		},
-		{
-			"_id": 2116,
-			"name": "Compte d'ordre sur immobilisations"
-		},
-		{
-			"_id": 212,
-			"name": "Agencements et aménagements de terrains (même ventilation que celle du compte 211) "
-		},
-		{
-			"_id": 213,
-			"name": "Constructions"
-		},
-		{
-			"_id": 2131,
-			"name": "Bâtiments"
-		},
-		{
-			"_id": 2135,
-			"name": "Installations générales - agencements - aménagements des constructions"
-		},
-		{
-			"_id": 2138,
-			"name": "Ouvrages d'infrastructure"
-		},
-		{
-			"_id": 214,
-			"name": "Constructions sur sol d'autrui (même ventilation que celle du compte 213) "
-		},
-		{
-			"_id": 215,
-			"name": "Installations techniques, matériels et outillage industriels "
-		},
-		{
-			"_id": 2151,
-			"name": "Installations complexes spécialisées "
-		},
-		{
-			"_id": 2153,
-			"name": "Installations à caractère spécifique "
-		},
-		{
-			"_id": 2154,
-			"name": "Matériel industriel"
-		},
-		{
-			"_id": 2155,
-			"name": "Outillage industriel"
-		},
-		{
-			"_id": 2157,
-			"name": "Agencements et aménagements des matériels et outillage industriels "
-		},
-		{
-			"_id": 218,
-			"name": "Autres immobilisations corporelles"
-		},
-		{
-			"_id": 2181,
-			"name": "Installations générales, agencements, aménagements divers"
-		},
-		{
-			"_id": 2182,
-			"name": "Matériel de transport"
-		},
-		{
-			"_id": 2183,
-			"name": "Matériel de bureau et matériel informatique "
-		},
-		{
-			"_id": 2184,
-			"name": "Mobilier"
-		},
-		{
-			"_id": 2185,
-			"name": "Cheptel"
-		},
-		{
-			"_id": 2186,
-			"name": "Emballages récupérables "
-		},
-		{
-			"_id": 2187,
-			"name": "Mali de fusions sur actifs corporels"
-		},
-		{
-			"_id": 22,
-			"name": "Immobilisations mises en concession"
-		},
-		{
-			"_id": 23,
-			"name": "Immobilisations en cours"
-		},
-		{
-			"_id": 231,
-			"name": "Immobilisations corporelles en cours"
-		},
-		{
-			"_id": 232,
-			"name": "Immobilisations incorporelles en cours "
-		},
-		{
-			"_id": 237,
-			"name": "Avances et acomptes versés sur immobilisations incorporelles "
-		},
-		{
-			"_id": 238,
-			"name": "Avances et acomptes versés sur commandes d'immobilisations corporelles "
-		},
-		{
-			"_id": 25,
-			"name": "Parts dans des entreprises liées et créances sur des entreprises liées "
-		},
-		{
-			"_id": 26,
-			"name": "Participations et créances rattachées à des participations "
-		},
-		{
-			"_id": 261,
-			"name": "Titres de participation"
-		},
-		{
-			"_id": 266,
-			"name": "Autres formes de participation "
-		},
-		{
-			"_id": 267,
-			"name": "Créances rattachées à des participations "
-		},
-		{
-			"_id": 268,
-			"name": "Créances rattachées à des sociétés en participation "
-		},
-		{
-			"_id": 269,
-			"name": "Versements restant à effectuer sur titres de participation non libérés "
-		},
-		{
-			"_id": 27,
-			"name": "Autres immobilisations financières "
-		},
-		{
-			"_id": 271,
-			"name": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille (droit de propriété) "
-		},
-		{
-			"_id": 272,
-			"name": "Titres immobilisés (droit de créance) "
-		},
-		{
-			"_id": 273,
-			"name": "Titres immobilisés de l'activité de portefeuille "
-		},
-		{
-			"_id": 274,
-			"name": "Prêts"
-		},
-		{
-			"_id": 275,
-			"name": "Dépôts et cautionnements versés "
-		},
-		{
-			"_id": 276,
-			"name": "Autres créances immobilisées "
-		},
-		{
-			"_id": 277,
-			"name": "(Actions propres ou parts propres)"
-		},
-		{
-			"_id": 278,
-			"name": "Mali de fusion sur actifs financiers"
-		},
-		{
-			"_id": 279,
-			"name": "Versements restant à effectuer sur titres immobilisés non libérés "
-		},
-		{
-			"_id": 28,
-			"name": "Amortissements des immobilisations"
-		},
-		{
-			"_id": 280,
-			"name": "Amortissements des immobilisations incorporelles "
-		},
-		{
-			"_id": 2801,
-			"name": "Frais d'établissement (même ventilation que celle du compte 201) "
-		},
-		{
-			"_id": 2803,
-			"name": "Frais de recherche et de développement "
-		},
-		{
-			"_id": 2805,
-			"name": "Concessions et droits similaires, brevets, licences, logiciels, droits et valeurs similaires "
-		},
-		{
-			"_id": 2807,
-			"name": "Fonds commercial"
-		},
-		{
-			"_id": 2808,
-			"name": "Autres immobilisations incorporelles "
-		},
-		{
-			"_id": 281,
-			"name": "Amortissements des immobilisations corporelles "
-		},
-		{
-			"_id": 2812,
-			"name": "Agencements, aménagements de terrains (même ventilation que celle du compte 212) "
-		},
-		{
-			"_id": 2813,
-			"name": "Constructions (même ventilation que celle du compte 213) "
-		},
-		{
-			"_id": 2814,
-			"name": "Constructions sur sol d'autrui (même ventilation que celle du compte 214) "
-		},
-		{
-			"_id": 2815,
-			"name": "Installations, matériel et outillage industriels (même ventilation que celle du compte 215) "
-		},
-		{
-			"_id": 2818,
-			"name": "Autres immobilisations corporelles (même ventilation que celle du compte 218) "
-		},
-		{
-			"_id": 282,
-			"name": "Amortissements des immobilisations mises en concession "
-		},
-		{
-			"_id": 29,
-			"name": "Dépréciations des immobilisations "
-		},
-		{
-			"_id": 290,
-			"name": "Dépréciations des immobilisations incorporelles "
-		},
-		{
-			"_id": 2905,
-			"name": "Marques, procédés, droits et valeurs similaires "
-		},
-		{
-			"_id": 2906,
-			"name": "Droit au bail"
-		},
-		{
-			"_id": 2907,
-			"name": "Fonds commercial"
-		},
-		{
-			"_id": 2908,
-			"name": "Autres immobilisations incorporelles "
-		},
-		{
-			"_id": 291,
-			"name": "Dépréciations des immobilisations corporelles (même ventilation que celle du compte 21) "
-		},
-		{
-			"_id": 29187,
-			"name": "Dépréciation du mali de fusion sur actifs corporels"
-		},
-		{
-			"_id": 292,
-			"name": "Dépréciations des immobilisations mises en concession "
-		},
-		{
-			"_id": 293,
-			"name": "Dépréciations des immobilisations en cours "
-		},
-		{
-			"_id": 2931,
-			"name": "Immobilisations corporelles en cours "
-		},
-		{
-			"_id": 2932,
-			"name": "Immobilisations incorporelles en cours "
-		},
-		{
-			"_id": 296,
-			"name": "Dépréciations des participations et créances rattachées à des participations"
-		},
-		{
-			"_id": 2961,
-			"name": "Titres de participation"
-		},
-		{
-			"_id": 2966,
-			"name": "Autres formes de participation"
-		},
-		{
-			"_id": 2967,
-			"name": "Créances rattachées à des participations (même ventilation que celle du compte 267) "
-		},
-		{
-			"_id": 2968,
-			"name": "Créances rattachées à des sociétés en participation (même ventilation que celle du compte 268) "
-		},
-		{
-			"_id": 297,
-			"name": "Dépréciations des autres immobilisations financières"
-		},
-		{
-			"_id": 2971,
-			"name": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille - droit de propriété (même ventilation que celle du "
-		},
-		{
-			"_id": null,
-			"name": "compte 271) "
-		},
-		{
-			"_id": 2972,
-			"name": "Droit de créance (même ventilation que celle du compte 272) "
-		},
-		{
-			"_id": 2973,
-			"name": "Titres immobilisés de l'activité de portefeuille "
-		},
-		{
-			"_id": 2974,
-			"name": "Prêts (même ventilation que celle du compte 274) "
-		},
-		{
-			"_id": 2975,
-			"name": "Dépôts et cautionnements versés (même ventilation que celle du compte 275) "
-		},
-		{
-			"_id": 2976,
-			"name": "Autres créances immobilisées (même ventilation que celle du compte 276) "
-		},
-		{
-			"_id": 29787,
-			"name": "Dépréciation du mali de fusion sur actifs financiers"
-		},
-		{
-			"_id": "3",
-			"name": "COMPTES DE STOCKS ET EN-COURS"
-		},
-		{
-			"_id": 31,
-			"name": "Matières premières (et fournitures) "
-		},
-		{
-			"_id": 311,
-			"name": "Matières (ou groupe) A"
-		},
-		{
-			"_id": 312,
-			"name": "Matières (ou groupe) B"
-		},
-		{
-			"_id": 317,
-			"name": "Fournitures A, B, C,"
-		},
-		{
-			"_id": 32,
-			"name": "Autres approvisionnements"
-		},
-		{
-			"_id": 321,
-			"name": "Matières consommables"
-		},
-		{
-			"_id": 322,
-			"name": "Fournitures consommables"
-		},
-		{
-			"_id": 326,
-			"name": "Emballages"
-		},
-		{
-			"_id": 33,
-			"name": "En-cours de production de biens "
-		},
-		{
-			"_id": 331,
-			"name": "Produits en cours"
-		},
-		{
-			"_id": 335,
-			"name": "Travaux en cours"
-		},
-		{
-			"_id": 34,
-			"name": "En-cours de production de services "
-		},
-		{
-			"_id": 341,
-			"name": "Etudes en cours"
-		},
-		{
-			"_id": 345,
-			"name": "Prestations de services en cours"
-		},
-		{
-			"_id": 35,
-			"name": "Stocks de produits"
-		},
-		{
-			"_id": 351,
-			"name": "Produits intermédiaires"
-		},
-		{
-			"_id": 355,
-			"name": "Produits finis"
-		},
-		{
-			"_id": 358,
-			"name": "Produits résiduels (ou matières de récupération) "
-		},
-		{
-			"_id": 36,
-			"name": "Compte à ouvrir, le cas échéant, sous l'intitulé \" stocks provenant d'immobilisations \" "
-		},
-		{
-			"_id": 37,
-			"name": "Stocks de marchandises"
-		},
-		{
-			"_id": 371,
-			"name": "Marchandises (ou groupe) A"
-		},
-		{
-			"_id": 372,
-			"name": "Marchandises (ou groupe) B"
-		},
-		{
-			"_id": 38,
-			"name": "Lorsque l'entité tient un inventaire permanent en comptabilité générale, le compte 38 peut être utilisé pour comptabiliser les stocks en voie d'acheminement, mis en dépôt ou donnés en consignation "
-		},
-		{
-			"_id": 39,
-			"name": "Dépréciation des stocks et en-cours "
-		},
-		{
-			"_id": 391,
-			"name": "Dépréciation des matières premières (et fournitures) "
-		},
-		{
-			"_id": 392,
-			"name": "Dépréciation des autres approvisionnements "
-		},
-		{
-			"_id": 393,
-			"name": "Dépréciation des en-cours de production de biens "
-		},
-		{
-			"_id": 394,
-			"name": "Dépréciation des en-cours de production de services "
-		},
-		{
-			"_id": 395,
-			"name": "Dépréciation des stocks de produits "
-		},
-		{
-			"_id": 397,
-			"name": "Dépréciation des stocks de marchandises "
-		},
-		{
-			"_id": "4",
-			"name": "COMPTES DE TIERS"
-		},
-		{
-			"_id": 40,
-			"name": "Fournisseurs et comptes rattachés"
-		},
-		{
-			"_id": 400,
-			"name": "Fournisseurs et Comptes rattachés "
-		},
-		{
-			"_id": 401,
-			"name": "Fournisseurs"
-		},
-		{
-			"_id": 403,
-			"name": "Fournisseurs - Effets à payer"
-		},
-		{
-			"_id": 404,
-			"name": "Fournisseurs d'immobilisations"
-		},
-		{
-			"_id": 405,
-			"name": "Fournisseurs d'immobilisations - Effets à payer "
-		},
-		{
-			"_id": 408,
-			"name": "Fournisseurs - Factures non parvenues "
-		},
-		{
-			"_id": 409,
-			"name": "Fournisseurs débiteurs"
-		},
-		{
-			"_id": 4091,
-			"name": "Fournisseurs - Avances et acomptes versés sur commandes "
-		},
-		{
-			"_id": 4096,
-			"name": "Fournisseurs - Créances pour emballages et matériel à rendre "
-		},
-		{
-			"_id": 4097,
-			"name": "Fournisseurs - Autres avoirs"
-		},
-		{
-			"_id": 4098,
-			"name": "Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus "
-		},
-		{
-			"_id": 41,
-			"name": "Clients et comptes rattachés"
-		},
-		{
-			"_id": 410,
-			"name": "Clients et comptes rattachés "
-		},
-		{
-			"_id": 411,
-			"name": "Clients"
-		},
-		{
-			"_id": 413,
-			"name": "Clients - Effets à recevoir"
-		},
-		{
-			"_id": 416,
-			"name": "Clients douteux ou litigieux"
-		},
-		{
-			"_id": 418,
-			"name": "Clients - Produits non encore facturés "
-		},
-		{
-			"_id": 419,
-			"name": "Clients créditeurs"
-		},
-		{
-			"_id": 4191,
-			"name": "Clients - Avances et acomptes reçus sur commandes "
-		},
-		{
-			"_id": 4196,
-			"name": "Clients - Dettes sur emballages et matériels consignés "
-		},
-		{
-			"_id": 4197,
-			"name": "Clients - Autres avoirs"
-		},
-		{
-			"_id": 4198,
-			"name": "Rabais, remises, ristournes à accorder et autres avoirs à établir "
-		},
-		{
-			"_id": 42,
-			"name": "Personnel et comptes rattachés"
-		},
-		{
-			"_id": 421,
-			"name": "Personnel - Rémunérations dues "
-		},
-		{
-			"_id": 422,
-			"name": "Comités d'entreprises, d'établissement, "
-		},
-		{
-			"_id": 424,
-			"name": "Participation des salariés aux résultats "
-		},
-		{
-			"_id": 425,
-			"name": "Personnel - Avances et acomptes"
-		},
-		{
-			"_id": 426,
-			"name": "Personnel - Dépôts"
-		},
-		{
-			"_id": 427,
-			"name": "Personnel - Oppositions"
-		},
-		{
-			"_id": 428,
-			"name": "Personnel - Charges à payer et produits à recevoir "
-		},
-		{
-			"_id": 43,
-			"name": "Sécurité sociale et autres organismes sociaux "
-		},
-		{
-			"_id": 431,
-			"name": "Sécurité sociale"
-		},
-		{
-			"_id": 437,
-			"name": "Autres organismes sociaux"
-		},
-		{
-			"_id": 438,
-			"name": "Organismes sociaux - Charges à payer et produits à recevoir "
-		},
-		{
-			"_id": 44,
-			"name": "État et autres collectivités publiques "
-		},
-		{
-			"_id": 441,
-			"name": "État - Subventions à recevoir"
-		},
-		{
-			"_id": 442,
-			"name": "Contributions, impôts et taxes recouvrés pour le compte de l'Etat"
-		},
-		{
-			"_id": 443,
-			"name": "Opérations particulières avec l'Etat, les collectivités publiques, les organismes internationaux "
-		},
-		{
-			"_id": 4431,
-			"name": "Créances sur l'Etat résultant de la suppression de la règle du décalage d'un mois en matière de TVA "
-		},
-		{
-			"_id": 4438,
-			"name": "Intérêts courus sur créances figurant au compte 4431 "
-		},
-		{
-			"_id": 444,
-			"name": "Etat - Impôts sur les bénéfices "
-		},
-		{
-			"_id": 445,
-			"name": "Etat - Taxes sur le chiffre d'affaires "
-		},
-		{
-			"_id": 4452,
-			"name": "TVA due intracommunautaire"
-		},
-		{
-			"_id": 4455,
-			"name": "Taxes sur le chiffre d'affaires à décaisser "
-		},
-		{
-			"_id": 4456,
-			"name": "Taxes sur le chiffre d'affaires déductibles "
-		},
-		{
-			"_id": 4457,
-			"name": "Taxes sur le chiffre d'affaires collectées par l'entreprise "
-		},
-		{
-			"_id": 4458,
-			"name": "Taxes sur le chiffre d'affaires à régulariser ou en attente "
-		},
-		{
-			"_id": 446,
-			"name": "Obligations cautionnées"
-		},
-		{
-			"_id": 447,
-			"name": "Autres impôts, taxes et versements assimilés "
-		},
-		{
-			"_id": 448,
-			"name": "Etat - Charges à payer et produits à recevoir "
-		},
-		{
-			"_id": 449,
-			"name": "Quotas d'émission à acquérir"
-		},
-		{
-			"_id": 45,
-			"name": "Groupe et associés "
-		},
-		{
-			"_id": 451,
-			"name": "Groupe"
-		},
-		{
-			"_id": 455,
-			"name": "Associés - Comptes courants "
-		},
-		{
-			"_id": 456,
-			"name": "Associés - Opérations sur le capital "
-		},
-		{
-			"_id": 457,
-			"name": "Associés - Dividendes à payer "
-		},
-		{
-			"_id": 458,
-			"name": "Associés - Opérations faites en commun et en GIE "
-		},
-		{
-			"_id": 46,
-			"name": "Débiteurs divers et créditeurs divers "
-		},
-		{
-			"_id": 462,
-			"name": "Créances sur cessions d'immobilisations "
-		},
-		{
-			"_id": 464,
-			"name": "Dettes sur acquisitions de valeurs mobilières de placement "
-		},
-		{
-			"_id": 465,
-			"name": "Créances sur cessions de valeurs mobilières de placement "
-		},
-		{
-			"_id": 467,
-			"name": "Autres comptes débiteurs ou créditeurs "
-		},
-		{
-			"_id": 468,
-			"name": "Divers - Charges à payer et produits à recevoir "
-		},
-		{
-			"_id": 47,
-			"name": "Comptes transitoires ou d'attente "
-		},
-		{
-			"_id": "471 à 473",
-			"name": "Comptes d'attente"
-		},
-		{
-			"_id": 474,
-			"name": "Différences d'évaluation de jetons sur des passifs"
-		},
-		{
-			"_id": 475,
-			"name": "Comptes d'attente"
-		},
-		{
-			"_id": 476,
-			"name": "Différence de conversion - Actif "
-		},
-		{
-			"_id": 477,
-			"name": "Différences de conversion - Passif "
-		},
-		{
-			"_id": 478,
-			"name": "Autres comptes transitoires"
-		},
-		{
-			"_id": 47861,
-			"name": "Différences d'évaluation sur instruments financier à terme - Actif"
-		},
-		{
-			"_id": 47862,
-			"name": "Différences d'évaluation sur jetons détenus - Actif"
-		},
-		{
-			"_id": 47871,
-			"name": "Différences d'évaluation sur instruments financier à terme - Passif"
-		},
-		{
-			"_id": 47872,
-			"name": "Différences d'évaluation sur jetons détenus - Passif"
-		},
-		{
-			"_id": 48,
-			"name": "Comptes de régularisation"
-		},
-		{
-			"_id": 481,
-			"name": "Charges à répartir sur plusieurs exercices "
-		},
-		{
-			"_id": 486,
-			"name": "Charges constatées d'avance "
-		},
-		{
-			"_id": 487,
-			"name": "Produits constatés d'avance "
-		},
-		{
-			"_id": 488,
-			"name": "Comptes de répartition périodique des charges et des produits "
-		},
-		{
-			"_id": 49,
-			"name": "Dépréciation des comptes de tiers "
-		},
-		{
-			"_id": 491,
-			"name": "Dépréciation des comptes de clients "
-		},
-		{
-			"_id": 495,
-			"name": "Dépréciation des comptes du groupe et des associés "
-		},
-		{
-			"_id": 4951,
-			"name": "Comptes du groupe"
-		},
-		{
-			"_id": 4955,
-			"name": "Comptes courants des associés "
-		},
-		{
-			"_id": 4958,
-			"name": "Opérations faites en commun et en GIE "
-		},
-		{
-			"_id": 496,
-			"name": "Dépréciation des comptes de débiteurs divers "
-		},
-		{
-			"_id": "5",
-			"name": "COMPTES FINANCIERS"
-		},
-		{
-			"_id": 50,
-			"name": "Valeurs mobilières de placement "
-		},
-		{
-			"_id": 501,
-			"name": "Parts dans des entreprises liées "
-		},
-		{
-			"_id": 502,
-			"name": "Actions propres"
-		},
-		{
-			"_id": 503,
-			"name": "Actions"
-		},
-		{
-			"_id": 504,
-			"name": "Autres titres conférant un droit de propriété "
-		},
-		{
-			"_id": 505,
-			"name": "Obligations et bons émis par la société et rachetés par elle "
-		},
-		{
-			"_id": 506,
-			"name": "Obligations"
-		},
-		{
-			"_id": 507,
-			"name": "Bons du Trésor et bons de caisse à court terme"
-		},
-		{
-			"_id": 508,
-			"name": "Autres valeurs mobilières de placement et autres créances assimilées "
-		},
-		{
-			"_id": 509,
-			"name": "Versements restant à effectuer sur valeurs mobilières de placement non libérées "
-		},
-		{
-			"_id": 51,
-			"name": "Banques, établissements financiers et assimilés "
-		},
-		{
-			"_id": 511,
-			"name": "Valeurs à l'encaissement"
-		},
-		{
-			"_id": 512,
-			"name": "Banques "
-		},
-		{
-			"_id": 514,
-			"name": "Chèques postaux"
-		},
-		{
-			"_id": 515,
-			"name": "\" Caisses \" du Trésor et des établissements publics "
-		},
-		{
-			"_id": 516,
-			"name": "Sociétés de bourse"
-		},
-		{
-			"_id": 517,
-			"name": "Autres organismes financiers"
-		},
-		{
-			"_id": 518,
-			"name": "Intérêts courus"
-		},
-		{
-			"_id": 519,
-			"name": "Concours bancaires courants"
-		},
-		{
-			"_id": 52,
-			"name": "Instruments financiers à terme et jetons détenus"
-		},
-		{
-			"_id": 521,
-			"name": "Instruments financiers à terme"
-		},
-		{
-			"_id": 522,
-			"name": "Jetons détenus"
-		},
-		{
-			"_id": 523,
-			"name": "Jetons auto-détenus"
-		},
-		{
-			"_id": 524,
-			"name": "Jetons empruntés"
-		},
-		{
-			"_id": 53,
-			"name": "Caisse"
-		},
-		{
-			"_id": 531,
-			"name": "Caisse siège social"
-		},
-		{
-			"_id": 532,
-			"name": "Caisse succursale (ou usine) A "
-		},
-		{
-			"_id": 533,
-			"name": "Caisse succursale (ou usine) B "
-		},
-		{
-			"_id": 54,
-			"name": "Régies d'avance et accréditifs"
-		},
-		{
-			"_id": 58,
-			"name": "Virements internes"
-		},
-		{
-			"_id": 59,
-			"name": "Dépréciation des comptes financiers "
-		},
-		{
-			"_id": 590,
-			"name": "Dépréciation des valeurs mobilières de placement "
-		},
-		{
-			"_id": 5903,
-			"name": "Actions"
-		},
-		{
-			"_id": 5904,
-			"name": "Autres titres conférant un droit de propriété "
-		},
-		{
-			"_id": 5906,
-			"name": "Obligations"
-		},
-		{
-			"_id": 5908,
-			"name": "Autres valeurs mobilières de placement et créances assimilées "
-		},
-		{
-			"_id": "6",
-			"name": "COMPTES DE CHARGES"
-		},
-		{
-			"_id": 60,
-			"name": "Achats (sauf 603) "
-		},
-		{
-			"_id": 601,
-			"name": "Achats stockés - Matières premières (et fournitures) "
-		},
-		{
-			"_id": 602,
-			"name": "Achats stockés - Autres approvisionnements "
-		},
-		{
-			"_id": 6021,
-			"name": "Matières consommables"
-		},
-		{
-			"_id": 6022,
-			"name": "Fournitures consommables"
-		},
-		{
-			"_id": 6026,
-			"name": "Emballages "
-		},
-		{
-			"_id": 604,
-			"name": "Achats d'études et prestations de services "
-		},
-		{
-			"_id": 605,
-			"name": "Achats de matériel, équipements et travaux "
-		},
-		{
-			"_id": 606,
-			"name": "Achats non stockés de matière et fournitures "
-		},
-		{
-			"_id": 607,
-			"name": "Achats de marchandises"
-		},
-		{
-			"_id": 608,
-			"name": "(Compte réservé, le cas échéant, à la récapitulation des frais accessoires incorporés aux achats) "
-		},
-		{
-			"_id": 609,
-			"name": "Rabais, remises et ristournes obtenus sur achats "
-		},
-		{
-			"_id": 603,
-			"name": "Variations des stocks (approvisionnements et marchandises) "
-		},
-		{
-			"_id": 6031,
-			"name": "Variation des stocks de matières premières (et fournitures) "
-		},
-		{
-			"_id": 6032,
-			"name": "Variation des stocks des autres approvisionnements "
-		},
-		{
-			"_id": 6037,
-			"name": "Variation des stocks de marchandises "
-		},
-		{
-			"_id": "61/62",
-			"name": "Autres charges externes"
-		},
-		{
-			"_id": 61,
-			"name": "Services extérieurs"
-		},
-		{
-			"_id": 611,
-			"name": "Sous-traitance générale "
-		},
-		{
-			"_id": 612,
-			"name": "Redevances de crédit-bail"
-		},
-		{
-			"_id": 6122,
-			"name": "Crédit-bail mobilier"
-		},
-		{
-			"_id": 6125,
-			"name": "Crédit-bail immobilier"
-		},
-		{
-			"_id": 613,
-			"name": "Locations "
-		},
-		{
-			"_id": 614,
-			"name": "Charges locatives et de copropriété "
-		},
-		{
-			"_id": 615,
-			"name": "Entretien et réparations"
-		},
-		{
-			"_id": 616,
-			"name": "Primes d'assurances"
-		},
-		{
-			"_id": 617,
-			"name": "Etudes et recherches"
-		},
-		{
-			"_id": 618,
-			"name": "Divers"
-		},
-		{
-			"_id": 619,
-			"name": "Rabais, remises et ristournes obtenus sur services extérieurs "
-		},
-		{
-			"_id": 62,
-			"name": "Autres services extérieurs "
-		},
-		{
-			"_id": 621,
-			"name": "Personnel extérieur à l'entreprise "
-		},
-		{
-			"_id": 622,
-			"name": "Rémunérations d'intermédiaires et honoraires "
-		},
-		{
-			"_id": 623,
-			"name": "Publicité, publications, relations publiques "
-		},
-		{
-			"_id": 624,
-			"name": "Transports de biens et transports collectifs du personnel "
-		},
-		{
-			"_id": 625,
-			"name": "Déplacements, missions et réceptions "
-		},
-		{
-			"_id": 626,
-			"name": "Frais postaux et de télécommunications "
-		},
-		{
-			"_id": 627,
-			"name": "Services bancaires et assimilés "
-		},
-		{
-			"_id": 628,
-			"name": "Divers"
-		},
-		{
-			"_id": 629,
-			"name": "Rabais, remises et ristournes obtenus sur autres services extérieurs "
-		},
-		{
-			"_id": 63,
-			"name": "Impôts, taxes et versements assimilés "
-		},
-		{
-			"_id": 631,
-			"name": "Impôts, taxes et versements assimilés sur rémunérations (administrations des impôts) "
-		},
-		{
-			"_id": 633,
-			"name": "Impôts, taxes et versements assimilés sur rémunérations (autres organismes) "
-		},
-		{
-			"_id": 635,
-			"name": "Autres impôts, taxes et versements assimilés (administrations des impôts) "
-		},
-		{
-			"_id": 6358,
-			"name": "Autres droits "
-		},
-		{
-			"_id": 637,
-			"name": "Autres impôts, taxes et versements assimilés (autres organismes) "
-		},
-		{
-			"_id": 64,
-			"name": "Charges de personnel"
-		},
-		{
-			"_id": 641,
-			"name": "Rémunérations du personnel "
-		},
-		{
-			"_id": 644,
-			"name": "Rémunération du travail de l'exploitant "
-		},
-		{
-			"_id": 645,
-			"name": "Charges de sécurité sociale et de prévoyance "
-		},
-		{
-			"_id": 646,
-			"name": "Cotisations sociales personnelles de l'exploitant "
-		},
-		{
-			"_id": 647,
-			"name": "Autres charges sociales"
-		},
-		{
-			"_id": 648,
-			"name": "Autres charges de personnel"
-		},
-		{
-			"_id": 65,
-			"name": "Autres charges de gestion courante "
-		},
-		{
-			"_id": 651,
-			"name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires "
-		},
-		{
-			"_id": 653,
-			"name": "Jetons de présence"
-		},
-		{
-			"_id": 654,
-			"name": "Pertes sur créances irrécouvrables "
-		},
-		{
-			"_id": 655,
-			"name": "Quote-part de résultat sur opérations faites en commun "
-		},
-		{
-			"_id": 656,
-			"name": "Pertes de change sur créances commerciales"
-		},
-		{
-			"_id": 658,
-			"name": "Charges diverses de gestion courante"
-		},
-		{
-			"_id": 66,
-			"name": "Charges financières"
-		},
-		{
-			"_id": 661,
-			"name": "Charges d'intérêts"
-		},
-		{
-			"_id": 664,
-			"name": "Pertes sur créances liées à des participations "
-		},
-		{
-			"_id": 665,
-			"name": "Escomptes accordés"
-		},
-		{
-			"_id": 666,
-			"name": "Pertes de change financières"
-		},
-		{
-			"_id": 667,
-			"name": "Charges nettes sur cessions de valeurs mobilières de placement "
-		},
-		{
-			"_id": 668,
-			"name": "Autres charges financières"
-		},
-		{
-			"_id": 67,
-			"name": "Charges exceptionnelles"
-		},
-		{
-			"_id": 671,
-			"name": "Charges exceptionnelles sur opérations de gestion "
-		},
-		{
-			"_id": 672,
-			"name": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les charges sur exercices antérieurs) "
-		},
-		{
-			"_id": 674,
-			"name": "Opérations de constitution ou liquidation des fiducies"
-		},
-		{
-			"_id": 675,
-			"name": "Valeurs comptables des éléments d'actif cédés "
-		},
-		{
-			"_id": 678,
-			"name": "Autres charges exceptionnelles"
-		},
-		{
-			"_id": 68,
-			"name": "Dotations aux amortissements, aux dépréciations et aux provisions"
-		},
-		{
-			"_id": 681,
-			"name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges d'exploitation"
-		},
-		{
-			"_id": 6811,
-			"name": "Dotations aux amortissements sur immobilisations incorporelles et corporelles "
-		},
-		{
-			"_id": 6812,
-			"name": "Dotations aux amortissements des charges d'exploitation à répartir "
-		},
-		{
-			"_id": 6815,
-			"name": "Dotations aux provisions d'exploitation"
-		},
-		{
-			"_id": 6816,
-			"name": "Dotations aux dépréciations des immobilisations incorporelles et corporelles "
-		},
-		{
-			"_id": 6817,
-			"name": "Dotations pour dépréciations des actifs circulants"
-		},
-		{
-			"_id": 686,
-			"name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges financières"
-		},
-		{
-			"_id": 6861,
-			"name": "Dotations aux amortissements des primes de remboursement des obligations "
-		},
-		{
-			"_id": 6865,
-			"name": "Dotations aux provisions financières"
-		},
-		{
-			"_id": 6866,
-			"name": "Dotations pour dépréciations des éléments financiers"
-		},
-		{
-			"_id": 6868,
-			"name": " Autres dotations"
-		},
-		{
-			"_id": 687,
-			"name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges exceptionnelles"
-		},
-		{
-			"_id": 6871,
-			"name": "Dotations aux amortissements exceptionnels des immobilisations "
-		},
-		{
-			"_id": 6872,
-			"name": "Dotations aux provisions réglementées (immobilisations) "
-		},
-		{
-			"_id": 6873,
-			"name": "Dotations aux provisions réglementées (stocks) "
-		},
-		{
-			"_id": 6874,
-			"name": "Dotations aux autres provisions réglementées "
-		},
-		{
-			"_id": 6875,
-			"name": "Dotations aux provisions exceptionnelles"
-		},
-		{
-			"_id": 6876,
-			"name": "Dotations pour dépréciations exceptionnelles"
-		},
-		{
-			"_id": 69,
-			"name": "Participation des salariés - Impôts sur les bénéfices et assimilés "
-		},
-		{
-			"_id": 691,
-			"name": "Participation des salariés aux résultats "
-		},
-		{
-			"_id": 695,
-			"name": "Impôts sur les bénéfices "
-		},
-		{
-			"_id": 696,
-			"name": "Suppléments d'impôt sur les sociétés liés aux distributions "
-		},
-		{
-			"_id": 698,
-			"name": "Intégration fiscale"
-		},
-		{
-			"_id": 6981,
-			"name": "Intégration fiscale - Charges "
-		},
-		{
-			"_id": 6989,
-			"name": "Intégration fiscale - Produits "
-		},
-		{
-			"_id": 699,
-			"name": "Produits - Reports en arrière des déficits "
-		},
-		{
-			"_id": "7",
-			"name": "COMPTES DE PRODUITS"
-		},
-		{
-			"_id": 70,
-			"name": "Ventes de produits fabriqués, prestations de services, marchandises"
-		},
-		{
-			"_id": 701,
-			"name": "Ventes de produits finis"
-		},
-		{
-			"_id": 702,
-			"name": "Ventes de produits intermédiaires "
-		},
-		{
-			"_id": 703,
-			"name": "Ventes de produits résiduels"
-		},
-		{
-			"_id": 704,
-			"name": "Travaux"
-		},
-		{
-			"_id": 705,
-			"name": "Etudes"
-		},
-		{
-			"_id": 706,
-			"name": "Prestations de services"
-		},
-		{
-			"_id": 707,
-			"name": "Ventes de marchandises"
-		},
-		{
-			"_id": 708,
-			"name": "Produits des activités annexes "
-		},
-		{
-			"_id": 709,
-			"name": "Rabais, remises et ristournes accordés par l'entreprise "
-		},
-		{
-			"_id": 71,
-			"name": "Production stockée (ou déstockage)"
-		},
-		{
-			"_id": 713,
-			"name": "Variation des stocks (en-cours de production, produits) "
-		},
-		{
-			"_id": 7133,
-			"name": "Variation des en-cours de production de biens "
-		},
-		{
-			"_id": 7134,
-			"name": "Variation des en-cours de production de services "
-		},
-		{
-			"_id": 7135,
-			"name": "Variation des stocks de produits"
-		},
-		{
-			"_id": 72,
-			"name": "Production immobilisée"
-		},
-		{
-			"_id": 721,
-			"name": "Immobilisations incorporelles"
-		},
-		{
-			"_id": 722,
-			"name": "Immobilisations corporelles"
-		},
-		{
-			"_id": 74,
-			"name": "Subventions d'exploitation"
-		},
-		{
-			"_id": 75,
-			"name": "Autres produits de gestion courante "
-		},
-		{
-			"_id": 751,
-			"name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires "
-		},
-		{
-			"_id": 752,
-			"name": "Revenus des immeubles non affectés à des activités professionnelles "
-		},
-		{
-			"_id": 753,
-			"name": "Jetons de présence et rémunérations d'administrateurs, gérants, "
-		},
-		{
-			"_id": 754,
-			"name": "Ristournes perçues des coopératives (provenant des excédents) "
-		},
-		{
-			"_id": 755,
-			"name": "Quotes-parts de résultat sur opérations faites en commun "
-		},
-		{
-			"_id": 756,
-			"name": "Gains de change sur créances et dettes commerciales"
-		},
-		{
-			"_id": 758,
-			"name": "Produits divers de gestion courante"
-		},
-		{
-			"_id": 76,
-			"name": "Produits financiers"
-		},
-		{
-			"_id": 761,
-			"name": "Produits de participations"
-		},
-		{
-			"_id": 762,
-			"name": "Produits des autres immobilisations financières "
-		},
-		{
-			"_id": 763,
-			"name": "Revenus des autres créances"
-		},
-		{
-			"_id": 764,
-			"name": "Revenus des valeurs mobilières de placement "
-		},
-		{
-			"_id": 765,
-			"name": "Escomptes obtenus"
-		},
-		{
-			"_id": 766,
-			"name": "Gains de change financiers"
-		},
-		{
-			"_id": 767,
-			"name": "Produits nets sur cessions de valeurs mobilières de placement "
-		},
-		{
-			"_id": 768,
-			"name": "Autres produits financiers"
-		},
-		{
-			"_id": 77,
-			"name": "Produits exceptionnels"
-		},
-		{
-			"_id": 771,
-			"name": "Produits exceptionnels sur opérations de gestion "
-		},
-		{
-			"_id": 772,
-			"name": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les produits sur exercices antérieurs) "
-		},
-		{
-			"_id": 774,
-			"name": "Opérations de constitution ou liquidation des fiducies"
-		},
-		{
-			"_id": 775,
-			"name": "Produits des cessions d'éléments d'actif "
-		},
-		{
-			"_id": 777,
-			"name": "Quote-part des subventions d'investissement virée au résultat de l'exercice"
-		},
-		{
-			"_id": 778,
-			"name": "Autres produits exceptionnels "
-		},
-		{
-			"_id": 78,
-			"name": "Reprises sur amortissements, dépréciations et provisions"
-		},
-		{
-			"_id": 781,
-			"name": "Reprises sur amortissements, dépréciations et provisions (à inscrire dans les produits d'exploitation)"
-		},
-		{
-			"_id": 7811,
-			"name": "Reprises sur amortissements des immobilisations incorporelles et corporelles "
-		},
-		{
-			"_id": 7815,
-			"name": "Reprises sur provisions d'exploitation"
-		},
-		{
-			"_id": 7816,
-			"name": "Reprises sur dépréciations des immobilisations corporelles et  incorporelles "
-		},
-		{
-			"_id": 7817,
-			"name": "Reprises sur dépréciations des actifs circulants"
-		},
-		{
-			"_id": 786,
-			"name": "Reprises sur provisions pour risques et dépréciations (à inscrire dans les produits financiers)"
-		},
-		{
-			"_id": 7865,
-			"name": "Reprises sur provisions financières"
-		},
-		{
-			"_id": 7866,
-			"name": "Reprises sur dépréciations des éléments financiers"
-		},
-		{
-			"_id": 787,
-			"name": "Reprises sur provisions et dépréciations (à inscrire dans les produits exceptionnels)"
-		},
-		{
-			"_id": 7872,
-			"name": "Reprises sur provisions réglementées (immobilisations) "
-		},
-		{
-			"_id": 7873,
-			"name": "Reprises sur provisions réglementées (stocks) "
-		},
-		{
-			"_id": 7874,
-			"name": "Reprises sur autres provisions réglementées "
-		},
-		{
-			"_id": 7875,
-			"name": "Reprises sur provisions exceptionnelles"
-		},
-		{
-			"_id": 7876,
-			"name": "Reprises sur dépréciations exceptionnelles "
-		},
-		{
-			"_id": 79,
-			"name": "Transferts de charges"
-		},
-		{
-			"_id": 791,
-			"name": "Transferts de charges d'exploitation "
-		},
-		{
-			"_id": 796,
-			"name": "Transferts de charges financières "
-		},
-		{
-			"_id": 797,
-			"name": "Transferts de charges exceptionnelles "
-		},
-		{
-			"_id": "8",
-			"name": "COMPTES SPECIAUX*"
-		},
-		{
-			"_id": 80,
-			"name": "Engagements*"
-		},
-		{
-			"_id": 801,
-			"name": "Engagements donnés par l'entité*"
-		},
-		{
-			"_id": 802,
-			"name": "Engagements recus par l'entité*"
-		},
-		{
-			"_id": 809,
-			"name": "Contrepartie des engagements*"
-		},
-		{
-			"_id": 88,
-			"name": "Résultat en instance d'affectation*"
-		},
-		{
-			"_id": 89,
-			"name": "Bilan*"
-		},
-		{
-			"_id": 890,
-			"name": "Bilan d'ouverture*"
-		},
-		{
-			"_id": 891,
-			"name": "Bilan de clôture*"
-		}
-	]
-}
+[
+	{
+		"_id": 1,
+		"name": "Comptes de capitaux"
+	},
+	{
+		"_id": 10,
+		"name": "Capital et réserves"
+	},
+	{
+		"_id": 101,
+		"name": "Capital"
+	},
+	{
+		"_id": 102,
+		"name": "Fonds fiduciaires"
+	},
+	{
+		"_id": 104,
+		"name": "Primes liées au capital social"
+	},
+	{
+		"_id": 105,
+		"name": "Ecarts de réévaluation"
+	},
+	{
+		"_id": 106,
+		"name": "Réserves"
+	},
+	{
+		"_id": 1061,
+		"name": "Réserve légale"
+	},
+	{
+		"_id": 1062,
+		"name": "Réserves indisponibles"
+	},
+	{
+		"_id": 1063,
+		"name": "Réserves statutaires ou contractuelles"
+	},
+	{
+		"_id": 1064,
+		"name": "Réserves réglementées"
+	},
+	{
+		"_id": 1068,
+		"name": "Autres réserves"
+	},
+	{
+		"_id": 107,
+		"name": "Ecart d'équivalence"
+	},
+	{
+		"_id": 108,
+		"name": "Compte de l'exploitant"
+	},
+	{
+		"_id": 109,
+		"name": "Actionnaires : capital souscrit - non appelé"
+	},
+	{
+		"_id": 11,
+		"name": "Report à nouveau (solde créditeur ou débiteur)"
+	},
+	{
+		"_id": 110,
+		"name": "Report à nouveau (solde créditeur)"
+	},
+	{
+		"_id": 119,
+		"name": "Report à nouveau (solde débiteur)"
+	},
+	{
+		"_id": 12,
+		"name": "Résultat de l'exercice (bénéfice ou perte)"
+	},
+	{
+		"_id": 120,
+		"name": "Résultat de l'exercice (bénéfice)"
+	},
+	{
+		"_id": 129,
+		"name": "Résultat de l'exercice (perte)"
+	},
+	{
+		"_id": 13,
+		"name": "Subventions d'investissement"
+	},
+	{
+		"_id": 131,
+		"name": "Subventions d'équipement"
+	},
+	{
+		"_id": 138,
+		"name": "Autres subventions d'investissement (même ventilation que celle du compte 131)"
+	},
+	{
+		"_id": 139,
+		"name": "Subventions d'investissement inscrites au compte de résultat"
+	},
+	{
+		"_id": 142,
+		"name": "Provisions réglementées relatives aux immobilisations"
+	},
+	{
+		"_id": 143,
+		"name": "Provisions réglementées relatives aux stocks"
+	},
+	{
+		"_id": 144,
+		"name": "Provisions réglementées relatives aux autres éléments de l'actif"
+	},
+	{
+		"_id": 145,
+		"name": "Amortissements dérogatoires"
+	},
+	{
+		"_id": 146,
+		"name": "Provision spéciale de réévaluation"
+	},
+	{
+		"_id": 147,
+		"name": "Plus-values réinvesties"
+	},
+	{
+		"_id": 148,
+		"name": "Autres provisions réglementées"
+	},
+	{
+		"_id": 15,
+		"name": "Provisions"
+	},
+	{
+		"_id": 151,
+		"name": "Provisions pour risques"
+	},
+	{
+		"_id": 153,
+		"name": "Provisions pour pensions et obligations similaires"
+	},
+	{
+		"_id": 154,
+		"name": "Provisions pour restructurations"
+	},
+	{
+		"_id": 155,
+		"name": "Provisions pour impôts"
+	},
+	{
+		"_id": 156,
+		"name": "Provisions pour renouvellement des immobilisations (entreprises concessionnaires)"
+	},
+	{
+		"_id": 157,
+		"name": "Provisions pour charges à répartir sur plusieurs exercices"
+	},
+	{
+		"_id": 158,
+		"name": "Autres provisions pour charges"
+	},
+	{
+		"_id": 16,
+		"name": "Emprunts et dettes assimilées"
+	},
+	{
+		"_id": 161,
+		"name": "Emprunts obligataires convertibles"
+	},
+	{
+		"_id": 162,
+		"name": "Obligations représentatives de passifs nets remis en fiducie"
+	},
+	{
+		"_id": 163,
+		"name": "Autres emprunts obligataires"
+	},
+	{
+		"_id": 164,
+		"name": "Emprunts auprès des établissements de crédit"
+	},
+	{
+		"_id": 165,
+		"name": "Dépôts et cautionnements reçus"
+	},
+	{
+		"_id": 166,
+		"name": "Participation des salariés aux résultats"
+	},
+	{
+		"_id": 167,
+		"name": "Emprunts et dettes assortis de conditions particulières"
+	},
+	{
+		"_id": 168,
+		"name": "Autres emprunts et dettes assimilées"
+	},
+	{
+		"_id": 169,
+		"name": "Primes de remboursement des obligations"
+	},
+	{
+		"_id": 17,
+		"name": "Dettes rattachées à des participations"
+	},
+	{
+		"_id": 171,
+		"name": "Dettes rattachées à des participations (groupe)"
+	},
+	{
+		"_id": 174,
+		"name": "Dettes rattachées à des participations (hors groupe)"
+	},
+	{
+		"_id": 178,
+		"name": "Dettes rattachées à des sociétés en participation"
+	},
+	{
+		"_id": 18,
+		"name": "Comptes de liaison des établissements et sociétés en participation"
+	},
+	{
+		"_id": 181,
+		"name": "Comptes de liaison des établissements"
+	},
+	{
+		"_id": 186,
+		"name": "Biens et prestations de services échangés entre établissements (charges)"
+	},
+	{
+		"_id": 187,
+		"name": "Biens et prestations de services échangés entre établissements (produits)"
+	},
+	{
+		"_id": 188,
+		"name": "Comptes de liaison des sociétés en participation"
+	},
+	{
+		"_id": 2,
+		"name": "Comptes d'immobilisations"
+	},
+	{
+		"_id": 20,
+		"name": "Immobilisations incorporelles"
+	},
+	{
+		"_id": 201,
+		"name": "Frais d'établissement"
+	},
+	{
+		"_id": 203,
+		"name": "Frais de recherche et de développement"
+	},
+	{
+		"_id": 205,
+		"name": "Concessions et droits similaires, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires"
+	},
+	{
+		"_id": 206,
+		"name": "Droit au bail"
+	},
+	{
+		"_id": 207,
+		"name": "Fonds commercial"
+	},
+	{
+		"_id": 208,
+		"name": "Autres immobilisations incorporelles"
+	},
+	{
+		"_id": 2081,
+		"name": "Mali de fusion sur actifs incorporels"
+	},
+	{
+		"_id": 21,
+		"name": "Immobilisations corporelles"
+	},
+	{
+		"_id": 211,
+		"name": "Terrains"
+	},
+	{
+		"_id": 2111,
+		"name": "Terrains nus"
+	},
+	{
+		"_id": 2112,
+		"name": "Terrains aménagés"
+	},
+	{
+		"_id": 2113,
+		"name": "Sous-sols et sur-sols"
+	},
+	{
+		"_id": 2114,
+		"name": "Terrains de carrières (Tréfonds)"
+	},
+	{
+		"_id": 2115,
+		"name": "Terrains bâtis"
+	},
+	{
+		"_id": 2116,
+		"name": "Compte d'ordre sur immobilisations"
+	},
+	{
+		"_id": 212,
+		"name": "Agencements et aménagements de terrains (même ventilation que celle du compte 211)"
+	},
+	{
+		"_id": 213,
+		"name": "Constructions"
+	},
+	{
+		"_id": 2131,
+		"name": "Bâtiments"
+	},
+	{
+		"_id": 2135,
+		"name": "Installations générales - agencements - aménagements des constructions"
+	},
+	{
+		"_id": 2138,
+		"name": "Ouvrages d'infrastructure"
+	},
+	{
+		"_id": 214,
+		"name": "Constructions sur sol d'autrui (même ventilation que celle du compte 213)"
+	},
+	{
+		"_id": 215,
+		"name": "Installations techniques, matériels et outillage industriels"
+	},
+	{
+		"_id": 2151,
+		"name": "Installations complexes spécialisées"
+	},
+	{
+		"_id": 2153,
+		"name": "Installations à caractère spécifique"
+	},
+	{
+		"_id": 2154,
+		"name": "Matériel industriel"
+	},
+	{
+		"_id": 2155,
+		"name": "Outillage industriel"
+	},
+	{
+		"_id": 2157,
+		"name": "Agencements et aménagements des matériels et outillage industriels"
+	},
+	{
+		"_id": 218,
+		"name": "Autres immobilisations corporelles"
+	},
+	{
+		"_id": 2181,
+		"name": "Installations générales, agencements, aménagements divers"
+	},
+	{
+		"_id": 2182,
+		"name": "Matériel de transport"
+	},
+	{
+		"_id": 2183,
+		"name": "Matériel de bureau et matériel informatique"
+	},
+	{
+		"_id": 2184,
+		"name": "Mobilier"
+	},
+	{
+		"_id": 2185,
+		"name": "Cheptel"
+	},
+	{
+		"_id": 2186,
+		"name": "Emballages récupérables"
+	},
+	{
+		"_id": 2187,
+		"name": "Mali de fusions sur actifs corporels"
+	},
+	{
+		"_id": 22,
+		"name": "Immobilisations mises en concession"
+	},
+	{
+		"_id": 23,
+		"name": "Immobilisations en cours"
+	},
+	{
+		"_id": 231,
+		"name": "Immobilisations corporelles en cours"
+	},
+	{
+		"_id": 232,
+		"name": "Immobilisations incorporelles en cours"
+	},
+	{
+		"_id": 237,
+		"name": "Avances et acomptes versés sur immobilisations incorporelles"
+	},
+	{
+		"_id": 238,
+		"name": "Avances et acomptes versés sur commandes d'immobilisations corporelles"
+	},
+	{
+		"_id": 25,
+		"name": "Parts dans des entreprises liées et créances sur des entreprises liées"
+	},
+	{
+		"_id": 26,
+		"name": "Participations et créances rattachées à des participations"
+	},
+	{
+		"_id": 261,
+		"name": "Titres de participation"
+	},
+	{
+		"_id": 266,
+		"name": "Autres formes de participation"
+	},
+	{
+		"_id": 267,
+		"name": "Créances rattachées à des participations"
+	},
+	{
+		"_id": 268,
+		"name": "Créances rattachées à des sociétés en participation"
+	},
+	{
+		"_id": 269,
+		"name": "Versements restant à effectuer sur titres de participation non libérés"
+	},
+	{
+		"_id": 27,
+		"name": "Autres immobilisations financières"
+	},
+	{
+		"_id": 271,
+		"name": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille (droit de propriété)"
+	},
+	{
+		"_id": 272,
+		"name": "Titres immobilisés (droit de créance)"
+	},
+	{
+		"_id": 273,
+		"name": "Titres immobilisés de l'activité de portefeuille"
+	},
+	{
+		"_id": 274,
+		"name": "Prêts"
+	},
+	{
+		"_id": 275,
+		"name": "Dépôts et cautionnements versés"
+	},
+	{
+		"_id": 276,
+		"name": "Autres créances immobilisées"
+	},
+	{
+		"_id": 277,
+		"name": "(Actions propres ou parts propres)"
+	},
+	{
+		"_id": 278,
+		"name": "Mali de fusion sur actifs financiers"
+	},
+	{
+		"_id": 279,
+		"name": "Versements restant à effectuer sur titres immobilisés non libérés"
+	},
+	{
+		"_id": 28,
+		"name": "Amortissements des immobilisations"
+	},
+	{
+		"_id": 280,
+		"name": "Amortissements des immobilisations incorporelles"
+	},
+	{
+		"_id": 2801,
+		"name": "Frais d'établissement (même ventilation que celle du compte 201)"
+	},
+	{
+		"_id": 2803,
+		"name": "Frais de recherche et de développement"
+	},
+	{
+		"_id": 2805,
+		"name": "Concessions et droits similaires, brevets, licences, logiciels, droits et valeurs similaires"
+	},
+	{
+		"_id": 2807,
+		"name": "Fonds commercial"
+	},
+	{
+		"_id": 2808,
+		"name": "Autres immobilisations incorporelles"
+	},
+	{
+		"_id": 281,
+		"name": "Amortissements des immobilisations corporelles"
+	},
+	{
+		"_id": 2812,
+		"name": "Agencements, aménagements de terrains (même ventilation que celle du compte 212)"
+	},
+	{
+		"_id": 2813,
+		"name": "Constructions (même ventilation que celle du compte 213)"
+	},
+	{
+		"_id": 2814,
+		"name": "Constructions sur sol d'autrui (même ventilation que celle du compte 214)"
+	},
+	{
+		"_id": 2815,
+		"name": "Installations, matériel et outillage industriels (même ventilation que celle du compte 215)"
+	},
+	{
+		"_id": 2818,
+		"name": "Autres immobilisations corporelles (même ventilation que celle du compte 218)"
+	},
+	{
+		"_id": 282,
+		"name": "Amortissements des immobilisations mises en concession"
+	},
+	{
+		"_id": 29,
+		"name": "Dépréciations des immobilisations"
+	},
+	{
+		"_id": 290,
+		"name": "Dépréciations des immobilisations incorporelles"
+	},
+	{
+		"_id": 2905,
+		"name": "Marques, procédés, droits et valeurs similaires"
+	},
+	{
+		"_id": 2906,
+		"name": "Droit au bail"
+	},
+	{
+		"_id": 2907,
+		"name": "Fonds commercial"
+	},
+	{
+		"_id": 2908,
+		"name": "Autres immobilisations incorporelles"
+	},
+	{
+		"_id": 291,
+		"name": "Dépréciations des immobilisations corporelles (même ventilation que celle du compte 21)"
+	},
+	{
+		"_id": 29187,
+		"name": "Dépréciation du mali de fusion sur actifs corporels"
+	},
+	{
+		"_id": 292,
+		"name": "Dépréciations des immobilisations mises en concession"
+	},
+	{
+		"_id": 293,
+		"name": "Dépréciations des immobilisations en cours"
+	},
+	{
+		"_id": 2931,
+		"name": "Immobilisations corporelles en cours"
+	},
+	{
+		"_id": 2932,
+		"name": "Immobilisations incorporelles en cours"
+	},
+	{
+		"_id": 296,
+		"name": "Dépréciations des participations et créances rattachées à des participations"
+	},
+	{
+		"_id": 2961,
+		"name": "Titres de participation"
+	},
+	{
+		"_id": 2966,
+		"name": "Autres formes de participation"
+	},
+	{
+		"_id": 2967,
+		"name": "Créances rattachées à des participations (même ventilation que celle du compte 267)"
+	},
+	{
+		"_id": 2968,
+		"name": "Créances rattachées à des sociétés en participation (même ventilation que celle du compte 268)"
+	},
+	{
+		"_id": 297,
+		"name": "Dépréciations des autres immobilisations financières"
+	},
+	{
+		"_id": 2971,
+		"name": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille - droit de propriété (même ventilation que celle ducompte 271) "
+	},
+	{
+		"_id": 2972,
+		"name": "Droit de créance (même ventilation que celle du compte 272)"
+	},
+	{
+		"_id": 2973,
+		"name": "Titres immobilisés de l'activité de portefeuille"
+	},
+	{
+		"_id": 2974,
+		"name": "Prêts (même ventilation que celle du compte 274)"
+	},
+	{
+		"_id": 2975,
+		"name": "Dépôts et cautionnements versés (même ventilation que celle du compte 275)"
+	},
+	{
+		"_id": 2976,
+		"name": "Autres créances immobilisées (même ventilation que celle du compte 276)"
+	},
+	{
+		"_id": 29787,
+		"name": "Dépréciation du mali de fusion sur actifs financiers"
+	},
+	{
+		"_id": 3,
+		"name": "Comptes de stockes et en-cours"
+	},
+	{
+		"_id": 31,
+		"name": "Matières premières (et fournitures)"
+	},
+	{
+		"_id": 311,
+		"name": "Matières (ou groupe) A"
+	},
+	{
+		"_id": 312,
+		"name": "Matières (ou groupe) B"
+	},
+	{
+		"_id": 317,
+		"name": "Fournitures A, B, C,"
+	},
+	{
+		"_id": 32,
+		"name": "Autres approvisionnements"
+	},
+	{
+		"_id": 321,
+		"name": "Matières consommables"
+	},
+	{
+		"_id": 322,
+		"name": "Fournitures consommables"
+	},
+	{
+		"_id": 326,
+		"name": "Emballages"
+	},
+	{
+		"_id": 33,
+		"name": "En-cours de production de biens"
+	},
+	{
+		"_id": 331,
+		"name": "Produits en cours"
+	},
+	{
+		"_id": 335,
+		"name": "Travaux en cours"
+	},
+	{
+		"_id": 34,
+		"name": "En-cours de production de services"
+	},
+	{
+		"_id": 341,
+		"name": "Etudes en cours"
+	},
+	{
+		"_id": 345,
+		"name": "Prestations de services en cours"
+	},
+	{
+		"_id": 35,
+		"name": "Stocks de produits"
+	},
+	{
+		"_id": 351,
+		"name": "Produits intermédiaires"
+	},
+	{
+		"_id": 355,
+		"name": "Produits finis"
+	},
+	{
+		"_id": 358,
+		"name": "Produits résiduels (ou matières de récupération)"
+	},
+	{
+		"_id": 36,
+		"name": "Compte à ouvrir, le cas échéant, sous l'intitulé \"stocks provenant d'immobilisations\""
+	},
+	{
+		"_id": 37,
+		"name": "Stocks de marchandises"
+	},
+	{
+		"_id": 371,
+		"name": "Marchandises (ou groupe) A"
+	},
+	{
+		"_id": 372,
+		"name": "Marchandises (ou groupe) B"
+	},
+	{
+		"_id": 38,
+		"name": "Lorsque l'entité tient un inventaire permanent en comptabilité générale, le compte 38 peut être utilisé pour comptabiliser les stocks en voie d'acheminement, mis en dépôt ou donnés en consignation"
+	},
+	{
+		"_id": 39,
+		"name": "Dépréciation des stocks et en-cours"
+	},
+	{
+		"_id": 391,
+		"name": "Dépréciation des matières premières (et fournitures)"
+	},
+	{
+		"_id": 392,
+		"name": "Dépréciation des autres approvisionnements"
+	},
+	{
+		"_id": 393,
+		"name": "Dépréciation des en-cours de production de biens"
+	},
+	{
+		"_id": 394,
+		"name": "Dépréciation des en-cours de production de services"
+	},
+	{
+		"_id": 395,
+		"name": "Dépréciation des stocks de produits"
+	},
+	{
+		"_id": 397,
+		"name": "Dépréciation des stocks de marchandises"
+	},
+	{
+		"_id": "4",
+		"name": "Comptes de tiers"
+	},
+	{
+		"_id": 40,
+		"name": "Fournisseurs et comptes rattachés"
+	},
+	{
+		"_id": 400,
+		"name": "Fournisseurs et Comptes rattachés"
+	},
+	{
+		"_id": 401,
+		"name": "Fournisseurs"
+	},
+	{
+		"_id": 403,
+		"name": "Fournisseurs - Effets à payer"
+	},
+	{
+		"_id": 404,
+		"name": "Fournisseurs d'immobilisations"
+	},
+	{
+		"_id": 405,
+		"name": "Fournisseurs d'immobilisations - Effets à payer"
+	},
+	{
+		"_id": 408,
+		"name": "Fournisseurs - Factures non parvenues"
+	},
+	{
+		"_id": 409,
+		"name": "Fournisseurs débiteurs"
+	},
+	{
+		"_id": 4091,
+		"name": "Fournisseurs - Avances et acomptes versés sur commandes"
+	},
+	{
+		"_id": 4096,
+		"name": "Fournisseurs - Créances pour emballages et matériel à rendre"
+	},
+	{
+		"_id": 4097,
+		"name": "Fournisseurs - Autres avoirs"
+	},
+	{
+		"_id": 4098,
+		"name": "Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus"
+	},
+	{
+		"_id": 41,
+		"name": "Clients et comptes rattachés"
+	},
+	{
+		"_id": 410,
+		"name": "Clients et comptes rattachés"
+	},
+	{
+		"_id": 411,
+		"name": "Clients"
+	},
+	{
+		"_id": 413,
+		"name": "Clients - Effets à recevoir"
+	},
+	{
+		"_id": 416,
+		"name": "Clients douteux ou litigieux"
+	},
+	{
+		"_id": 418,
+		"name": "Clients - Produits non encore facturés"
+	},
+	{
+		"_id": 419,
+		"name": "Clients créditeurs"
+	},
+	{
+		"_id": 4191,
+		"name": "Clients - Avances et acomptes reçus sur commandes"
+	},
+	{
+		"_id": 4196,
+		"name": "Clients - Dettes sur emballages et matériels consignés"
+	},
+	{
+		"_id": 4197,
+		"name": "Clients - Autres avoirs"
+	},
+	{
+		"_id": 4198,
+		"name": "Rabais, remises, ristournes à accorder et autres avoirs à établir"
+	},
+	{
+		"_id": 42,
+		"name": "Personnel et comptes rattachés"
+	},
+	{
+		"_id": 421,
+		"name": "Personnel - Rémunérations dues"
+	},
+	{
+		"_id": 422,
+		"name": "Comités d'entreprises, d'établissement,... "
+	},
+	{
+		"_id": 424,
+		"name": "Participation des salariés aux résultats"
+	},
+	{
+		"_id": 425,
+		"name": "Personnel - Avances et acomptes"
+	},
+	{
+		"_id": 426,
+		"name": "Personnel - Dépôts"
+	},
+	{
+		"_id": 427,
+		"name": "Personnel - Oppositions"
+	},
+	{
+		"_id": 428,
+		"name": "Personnel - Charges à payer et produits à recevoir"
+	},
+	{
+		"_id": 43,
+		"name": "Sécurité sociale et autres organismes sociaux"
+	},
+	{
+		"_id": 431,
+		"name": "Sécurité sociale"
+	},
+	{
+		"_id": 437,
+		"name": "Autres organismes sociaux"
+	},
+	{
+		"_id": 438,
+		"name": "Organismes sociaux - Charges à payer et produits à recevoir"
+	},
+	{
+		"_id": 44,
+		"name": "État et autres collectivités publiques"
+	},
+	{
+		"_id": 441,
+		"name": "État - Subventions à recevoir"
+	},
+	{
+		"_id": 442,
+		"name": "Contributions, impôts et taxes recouvrés pour le compte de l'Etat"
+	},
+	{
+		"_id": 443,
+		"name": "Opérations particulières avec l'Etat, les collectivités publiques, les organismes internationaux"
+	},
+	{
+		"_id": 4431,
+		"name": "Créances sur l'Etat résultant de la suppression de la règle du décalage d'un mois en matière de TVA"
+	},
+	{
+		"_id": 4438,
+		"name": "Intérêts courus sur créances figurant au compte 4431"
+	},
+	{
+		"_id": 444,
+		"name": "Etat - Impôts sur les bénéfices"
+	},
+	{
+		"_id": 445,
+		"name": "Etat - Taxes sur le chiffre d'affaires"
+	},
+	{
+		"_id": 4452,
+		"name": "TVA due intracommunautaire"
+	},
+	{
+		"_id": 4455,
+		"name": "Taxes sur le chiffre d'affaires à décaisser"
+	},
+	{
+		"_id": 4456,
+		"name": "Taxes sur le chiffre d'affaires déductibles"
+	},
+	{
+		"_id": 4457,
+		"name": "Taxes sur le chiffre d'affaires collectées par l'entreprise"
+	},
+	{
+		"_id": 4458,
+		"name": "Taxes sur le chiffre d'affaires à régulariser ou en attente"
+	},
+	{
+		"_id": 446,
+		"name": "Obligations cautionnées"
+	},
+	{
+		"_id": 447,
+		"name": "Autres impôts, taxes et versements assimilés"
+	},
+	{
+		"_id": 448,
+		"name": "Etat - Charges à payer et produits à recevoir"
+	},
+	{
+		"_id": 449,
+		"name": "Quotas d'émission à acquérir"
+	},
+	{
+		"_id": 45,
+		"name": "Groupe et associés"
+	},
+	{
+		"_id": 451,
+		"name": "Groupe"
+	},
+	{
+		"_id": 455,
+		"name": "Associés - Comptes courants"
+	},
+	{
+		"_id": 456,
+		"name": "Associés - Opérations sur le capital"
+	},
+	{
+		"_id": 457,
+		"name": "Associés - Dividendes à payer"
+	},
+	{
+		"_id": 458,
+		"name": "Associés - Opérations faites en commun et en GIE"
+	},
+	{
+		"_id": 46,
+		"name": "Débiteurs divers et créditeurs divers"
+	},
+	{
+		"_id": 462,
+		"name": "Créances sur cessions d'immobilisations"
+	},
+	{
+		"_id": 464,
+		"name": "Dettes sur acquisitions de valeurs mobilières de placemen"
+	},
+	{
+		"_id": 465,
+		"name": "Créances sur cessions de valeurs mobilières de placement"
+	},
+	{
+		"_id": 467,
+		"name": "Autres comptes débiteurs ou créditeurs"
+	},
+	{
+		"_id": 468,
+		"name": "Divers - Charges à payer et produits à recevoir"
+	},
+	{
+		"_id": 47,
+		"name": "Comptes transitoires ou d'attente"
+	},
+	{
+		"_id": 471,
+		"name": "Comptes d'attente"
+	},
+	{
+		"_id": 472,
+		"name": "Comptes d'attente"
+	},
+	{
+		"_id": 473,
+		"name": "Comptes d'attente"
+	},
+	{
+		"_id": 474,
+		"name": "Différences d'évaluation de jetons sur des passifs"
+	},
+	{
+		"_id": 475,
+		"name": "Comptes d'attente"
+	},
+	{
+		"_id": 476,
+		"name": "Différence de conversion - Actif"
+	},
+	{
+		"_id": 477,
+		"name": "Différences de conversion - Passif"
+	},
+	{
+		"_id": 478,
+		"name": "Autres comptes transitoires"
+	},
+	{
+		"_id": 47861,
+		"name": "Différences d'évaluation sur instruments financier à terme - Actif"
+	},
+	{
+		"_id": 47862,
+		"name": "Différences d'évaluation sur jetons détenus - Actif"
+	},
+	{
+		"_id": 47871,
+		"name": "Différences d'évaluation sur instruments financier à terme - Passif"
+	},
+	{
+		"_id": 47872,
+		"name": "Différences d'évaluation sur jetons détenus - Passif"
+	},
+	{
+		"_id": 48,
+		"name": "Comptes de régularisation"
+	},
+	{
+		"_id": 481,
+		"name": "Charges à répartir sur plusieurs exercices"
+	},
+	{
+		"_id": 486,
+		"name": "Charges constatées d'avance"
+	},
+	{
+		"_id": 487,
+		"name": "Produits constatés d'avance"
+	},
+	{
+		"_id": 488,
+		"name": "Comptes de répartition périodique des charges et des produits"
+	},
+	{
+		"_id": 49,
+		"name": "Dépréciation des comptes de tiers"
+	},
+	{
+		"_id": 491,
+		"name": "Dépréciation des comptes de clients"
+	},
+	{
+		"_id": 495,
+		"name": "Dépréciation des comptes du groupe et des associés"
+	},
+	{
+		"_id": 4951,
+		"name": "Comptes du groupe"
+	},
+	{
+		"_id": 4955,
+		"name": "Comptes courants des associés"
+	},
+	{
+		"_id": 4958,
+		"name": "Opérations faites en commun et en GIE"
+	},
+	{
+		"_id": 496,
+		"name": "Dépréciation des comptes de débiteurs divers"
+	},
+	{
+		"_id": 5,
+		"name": "COomptes financiers"
+	},
+	{
+		"_id": 50,
+		"name": "Valeurs mobilières de placement"
+	},
+	{
+		"_id": 501,
+		"name": "Parts dans des entreprises liées"
+	},
+	{
+		"_id": 502,
+		"name": "Actions propres"
+	},
+	{
+		"_id": 503,
+		"name": "Actions"
+	},
+	{
+		"_id": 504,
+		"name": "Autres titres conférant un droit de propriété"
+	},
+	{
+		"_id": 505,
+		"name": "Obligations et bons émis par la société et rachetés par elle"
+	},
+	{
+		"_id": 506,
+		"name": "Obligations"
+	},
+	{
+		"_id": 507,
+		"name": "Bons du Trésor et bons de caisse à court terme"
+	},
+	{
+		"_id": 508,
+		"name": "Autres valeurs mobilières de placement et autres créances assimilées"
+	},
+	{
+		"_id": 509,
+		"name": "Versements restant à effectuer sur valeurs mobilières de placement non libérées"
+	},
+	{
+		"_id": 51,
+		"name": "Banques, établissements financiers et assimilés"
+	},
+	{
+		"_id": 511,
+		"name": "Valeurs à l'encaissement"
+	},
+	{
+		"_id": 512,
+		"name": "Banques"
+	},
+	{
+		"_id": 514,
+		"name": "Chèques postaux"
+	},
+	{
+		"_id": 515,
+		"name": "\"Caisses\" du Trésor et des établissements publics"
+	},
+	{
+		"_id": 516,
+		"name": "Sociétés de bourse"
+	},
+	{
+		"_id": 517,
+		"name": "Autres organismes financiers"
+	},
+	{
+		"_id": 518,
+		"name": "Intérêts courus"
+	},
+	{
+		"_id": 519,
+		"name": "Concours bancaires courants"
+	},
+	{
+		"_id": 52,
+		"name": "Instruments financiers à terme et jetons détenus"
+	},
+	{
+		"_id": 521,
+		"name": "Instruments financiers à terme"
+	},
+	{
+		"_id": 522,
+		"name": "Jetons détenus"
+	},
+	{
+		"_id": 523,
+		"name": "Jetons auto-détenus"
+	},
+	{
+		"_id": 524,
+		"name": "Jetons empruntés"
+	},
+	{
+		"_id": 53,
+		"name": "Caisse"
+	},
+	{
+		"_id": 531,
+		"name": "Caisse siège social"
+	},
+	{
+		"_id": 532,
+		"name": "Caisse succursale (ou usine) A"
+	},
+	{
+		"_id": 533,
+		"name": "Caisse succursale (ou usine) B"
+	},
+	{
+		"_id": 54,
+		"name": "Régies d'avance et accréditifs"
+	},
+	{
+		"_id": 58,
+		"name": "Virements internes"
+	},
+	{
+		"_id": 59,
+		"name": "Dépréciation des comptes financiers"
+	},
+	{
+		"_id": 590,
+		"name": "Dépréciation des valeurs mobilières de placement"
+	},
+	{
+		"_id": 5903,
+		"name": "Actions"
+	},
+	{
+		"_id": 5904,
+		"name": "Autres titres conférant un droit de propriété"
+	},
+	{
+		"_id": 5906,
+		"name": "Obligations"
+	},
+	{
+		"_id": 5908,
+		"name": "Autres valeurs mobilières de placement et créances assimilées"
+	},
+	{
+		"_id": 6,
+		"name": "comptes de charges"
+	},
+	{
+		"_id": 60,
+		"name": "Achats (sauf 603)"
+	},
+	{
+		"_id": 601,
+		"name": "Achats stockés - Matières premières (et fournitures)"
+	},
+	{
+		"_id": 602,
+		"name": "Achats stockés - Autres approvisionnements"
+	},
+	{
+		"_id": 6021,
+		"name": "Matières consommables"
+	},
+	{
+		"_id": 6022,
+		"name": "Fournitures consommables"
+	},
+	{
+		"_id": 6026,
+		"name": "Emballages"
+	},
+	{
+		"_id": 604,
+		"name": "Achats d'études et prestations de services"
+	},
+	{
+		"_id": 605,
+		"name": "Achats de matériel, équipements et travaux"
+	},
+	{
+		"_id": 606,
+		"name": "Achats non stockés de matière et fournitures"
+	},
+	{
+		"_id": 607,
+		"name": "Achats de marchandises"
+	},
+	{
+		"_id": 608,
+		"name": "(Compte réservé, le cas échéant, à la récapitulation des frais accessoires incorporés aux achats)"
+	},
+	{
+		"_id": 609,
+		"name": "Rabais, remises et ristournes obtenus sur achats"
+	},
+	{
+		"_id": 603,
+		"name": "Variations des stocks (approvisionnements et marchandises)"
+	},
+	{
+		"_id": 6031,
+		"name": "Variation des stocks de matières premières (et fournitures)"
+	},
+	{
+		"_id": 6032,
+		"name": "Variation des stocks des autres approvisionnements"
+	},
+	{
+		"_id": 6037,
+		"name": "Variation des stocks de marchandises"
+	},
+	{
+		"_id": 61.62,
+		"name": "Autres charges externes"
+	},
+	{
+		"_id": 61,
+		"name": "Services extérieurs"
+	},
+	{
+		"_id": 611,
+		"name": "Sous-traitance générale"
+	},
+	{
+		"_id": 612,
+		"name": "Redevances de crédit-bail"
+	},
+	{
+		"_id": 6122,
+		"name": "Crédit-bail mobilier"
+	},
+	{
+		"_id": 6125,
+		"name": "Crédit-bail immobilier"
+	},
+	{
+		"_id": 613,
+		"name": "Locations"
+	},
+	{
+		"_id": 614,
+		"name": "Charges locatives et de copropriété"
+	},
+	{
+		"_id": 615,
+		"name": "Entretien et réparations"
+	},
+	{
+		"_id": 616,
+		"name": "Primes d'assurances"
+	},
+	{
+		"_id": 617,
+		"name": "Etudes et recherches"
+	},
+	{
+		"_id": 618,
+		"name": "Divers"
+	},
+	{
+		"_id": 619,
+		"name": "Rabais, remises et ristournes obtenus sur services extérieurs"
+	},
+	{
+		"_id": 62,
+		"name": "Autres services extérieurs"
+	},
+	{
+		"_id": 621,
+		"name": "Personnel extérieur à l'entreprise"
+	},
+	{
+		"_id": 622,
+		"name": "Rémunérations d'intermédiaires et honoraires"
+	},
+	{
+		"_id": 623,
+		"name": "Publicité, publications, relations publiques"
+	},
+	{
+		"_id": 624,
+		"name": "Transports de biens et transports collectifs du personnel"
+	},
+	{
+		"_id": 625,
+		"name": "Déplacements, missions et réceptions"
+	},
+	{
+		"_id": 626,
+		"name": "Frais postaux et de télécommunications"
+	},
+	{
+		"_id": 627,
+		"name": "Services bancaires et assimilés"
+	},
+	{
+		"_id": 628,
+		"name": "Divers"
+	},
+	{
+		"_id": 629,
+		"name": "Rabais, remises et ristournes obtenus sur autres services extérieurs"
+	},
+	{
+		"_id": 63,
+		"name": "Impôts, taxes et versements assimilés"
+	},
+	{
+		"_id": 631,
+		"name": "Impôts, taxes et versements assimilés sur rémunérations (administrations des impôts)"
+	},
+	{
+		"_id": 633,
+		"name": "Impôts, taxes et versements assimilés sur rémunérations (autres organismes)"
+	},
+	{
+		"_id": 635,
+		"name": "Autres impôts, taxes et versements assimilés (administrations des impôts)"
+	},
+	{
+		"_id": 6358,
+		"name": "Autres droits"
+	},
+	{
+		"_id": 637,
+		"name": "Autres impôts, taxes et versements assimilés (autres organismes)"
+	},
+	{
+		"_id": 64,
+		"name": "Charges de personnel"
+	},
+	{
+		"_id": 641,
+		"name": "Rémunérations du personnel"
+	},
+	{
+		"_id": 644,
+		"name": "Rémunération du travail de l'exploitant"
+	},
+	{
+		"_id": 645,
+		"name": "Charges de sécurité sociale et de prévoyance"
+	},
+	{
+		"_id": 646,
+		"name": "Cotisations sociales personnelles de l'exploitant"
+	},
+	{
+		"_id": 647,
+		"name": "Autres charges sociales"
+	},
+	{
+		"_id": 648,
+		"name": "Autres charges de personnel"
+	},
+	{
+		"_id": 65,
+		"name": "Autres charges de gestion courante"
+	},
+	{
+		"_id": 651,
+		"name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires"
+	},
+	{
+		"_id": 653,
+		"name": "Jetons de présence"
+	},
+	{
+		"_id": 654,
+		"name": "Pertes sur créances irrécouvrables"
+	},
+	{
+		"_id": 655,
+		"name": "Quote-part de résultat sur opérations faites en commun"
+	},
+	{
+		"_id": 656,
+		"name": "Pertes de change sur créances commerciales"
+	},
+	{
+		"_id": 658,
+		"name": "Charges diverses de gestion courante"
+	},
+	{
+		"_id": 66,
+		"name": "Charges financières"
+	},
+	{
+		"_id": 661,
+		"name": "Charges d'intérêts"
+	},
+	{
+		"_id": 664,
+		"name": "Pertes sur créances liées à des participations"
+	},
+	{
+		"_id": 665,
+		"name": "Escomptes accordés"
+	},
+	{
+		"_id": 666,
+		"name": "Pertes de change financières"
+	},
+	{
+		"_id": 667,
+		"name": "Charges nettes sur cessions de valeurs mobilières de placement"
+	},
+	{
+		"_id": 668,
+		"name": "Autres charges financières"
+	},
+	{
+		"_id": 67,
+		"name": "Charges exceptionnelles"
+	},
+	{
+		"_id": 671,
+		"name": "Charges exceptionnelles sur opérations de gestion"
+	},
+	{
+		"_id": 672,
+		"name": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les charges sur exercices antérieurs)"
+	},
+	{
+		"_id": 674,
+		"name": "Opérations de constitution ou liquidation des fiducies"
+	},
+	{
+		"_id": 675,
+		"name": "Valeurs comptables des éléments d'actif cédés"
+	},
+	{
+		"_id": 678,
+		"name": "Autres charges exceptionnelles"
+	},
+	{
+		"_id": 68,
+		"name": "Dotations aux amortissements, aux dépréciations et aux provisions"
+	},
+	{
+		"_id": 681,
+		"name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges d'exploitation"
+	},
+	{
+		"_id": 6811,
+		"name": "Dotations aux amortissements sur immobilisations incorporelles et corporelles"
+	},
+	{
+		"_id": 6812,
+		"name": "Dotations aux amortissements des charges d'exploitation à répartir"
+	},
+	{
+		"_id": 6815,
+		"name": "Dotations aux provisions d'exploitation"
+	},
+	{
+		"_id": 6816,
+		"name": "Dotations aux dépréciations des immobilisations incorporelles et corporelles"
+	},
+	{
+		"_id": 6817,
+		"name": "Dotations pour dépréciations des actifs circulants"
+	},
+	{
+		"_id": 686,
+		"name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges financières"
+	},
+	{
+		"_id": 6861,
+		"name": "Dotations aux amortissements des primes de remboursement des obligations "
+	},
+	{
+		"_id": 6865,
+		"name": "Dotations aux provisions financières"
+	},
+	{
+		"_id": 6866,
+		"name": "Dotations pour dépréciations des éléments financiers"
+	},
+	{
+		"_id": 6868,
+		"name": "Autres dotations"
+	},
+	{
+		"_id": 687,
+		"name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges exceptionnelles"
+	},
+	{
+		"_id": 6871,
+		"name": "Dotations aux amortissements exceptionnels des immobilisations"
+	},
+	{
+		"_id": 6872,
+		"name": "Dotations aux provisions réglementées (immobilisations)"
+	},
+	{
+		"_id": 6873,
+		"name": "Dotations aux provisions réglementées (stocks)"
+	},
+	{
+		"_id": 6874,
+		"name": "Dotations aux autres provisions réglementées"
+	},
+	{
+		"_id": 6875,
+		"name": "Dotations aux provisions exceptionnelles"
+	},
+	{
+		"_id": 6876,
+		"name": "Dotations pour dépréciations exceptionnelles"
+	},
+	{
+		"_id": 69,
+		"name": "Participation des salariés - Impôts sur les bénéfices et assimilés"
+	},
+	{
+		"_id": 691,
+		"name": "Participation des salariés aux résultats"
+	},
+	{
+		"_id": 695,
+		"name": "Impôts sur les bénéfices"
+	},
+	{
+		"_id": 696,
+		"name": "Suppléments d'impôt sur les sociétés liés aux distributions"
+	},
+	{
+		"_id": 698,
+		"name": "Intégration fiscale"
+	},
+	{
+		"_id": 6981,
+		"name": "Intégration fiscale - Charges "
+	},
+	{
+		"_id": 6989,
+		"name": "Intégration fiscale - Produits "
+	},
+	{
+		"_id": 699,
+		"name": "Produits - Reports en arrière des déficits "
+	},
+	{
+		"_id": 7,
+		"name": "Comptes de produits"
+	},
+	{
+		"_id": 70,
+		"name": "Ventes de produits fabriqués, prestations de services, marchandises"
+	},
+	{
+		"_id": 701,
+		"name": "Ventes de produits finis"
+	},
+	{
+		"_id": 702,
+		"name": "Ventes de produits intermédiaires "
+	},
+	{
+		"_id": 703,
+		"name": "Ventes de produits résiduels"
+	},
+	{
+		"_id": 704,
+		"name": "Travaux"
+	},
+	{
+		"_id": 705,
+		"name": "Etudes"
+	},
+	{
+		"_id": 706,
+		"name": "Prestations de services"
+	},
+	{
+		"_id": 707,
+		"name": "Ventes de marchandises"
+	},
+	{
+		"_id": 708,
+		"name": "Produits des activités annexes "
+	},
+	{
+		"_id": 709,
+		"name": "Rabais, remises et ristournes accordés par l'entreprise "
+	},
+	{
+		"_id": 71,
+		"name": "Production stockée (ou déstockage)"
+	},
+	{
+		"_id": 713,
+		"name": "Variation des stocks (en-cours de production, produits) "
+	},
+	{
+		"_id": 7133,
+		"name": "Variation des en-cours de production de biens "
+	},
+	{
+		"_id": 7134,
+		"name": "Variation des en-cours de production de services "
+	},
+	{
+		"_id": 7135,
+		"name": "Variation des stocks de produits"
+	},
+	{
+		"_id": 72,
+		"name": "Production immobilisée"
+	},
+	{
+		"_id": 721,
+		"name": "Immobilisations incorporelles"
+	},
+	{
+		"_id": 722,
+		"name": "Immobilisations corporelles"
+	},
+	{
+		"_id": 74,
+		"name": "Subventions d'exploitation"
+	},
+	{
+		"_id": 75,
+		"name": "Autres produits de gestion courante "
+	},
+	{
+		"_id": 751,
+		"name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires "
+	},
+	{
+		"_id": 752,
+		"name": "Revenus des immeubles non affectés à des activités professionnelles "
+	},
+	{
+		"_id": 753,
+		"name": "Jetons de présence et rémunérations d'administrateurs, gérants, "
+	},
+	{
+		"_id": 754,
+		"name": "Ristournes perçues des coopératives (provenant des excédents) "
+	},
+	{
+		"_id": 755,
+		"name": "Quotes-parts de résultat sur opérations faites en commun "
+	},
+	{
+		"_id": 756,
+		"name": "Gains de change sur créances et dettes commerciales"
+	},
+	{
+		"_id": 758,
+		"name": "Produits divers de gestion courante"
+	},
+	{
+		"_id": 76,
+		"name": "Produits financiers"
+	},
+	{
+		"_id": 761,
+		"name": "Produits de participations"
+	},
+	{
+		"_id": 762,
+		"name": "Produits des autres immobilisations financières "
+	},
+	{
+		"_id": 763,
+		"name": "Revenus des autres créances"
+	},
+	{
+		"_id": 764,
+		"name": "Revenus des valeurs mobilières de placement "
+	},
+	{
+		"_id": 765,
+		"name": "Escomptes obtenus"
+	},
+	{
+		"_id": 766,
+		"name": "Gains de change financiers"
+	},
+	{
+		"_id": 767,
+		"name": "Produits nets sur cessions de valeurs mobilières de placement "
+	},
+	{
+		"_id": 768,
+		"name": "Autres produits financiers"
+	},
+	{
+		"_id": 77,
+		"name": "Produits exceptionnels"
+	},
+	{
+		"_id": 771,
+		"name": "Produits exceptionnels sur opérations de gestion "
+	},
+	{
+		"_id": 772,
+		"name": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les produits sur exercices antérieurs) "
+	},
+	{
+		"_id": 774,
+		"name": "Opérations de constitution ou liquidation des fiducies"
+	},
+	{
+		"_id": 775,
+		"name": "Produits des cessions d'éléments d'actif "
+	},
+	{
+		"_id": 777,
+		"name": "Quote-part des subventions d'investissement virée au résultat de l'exercice"
+	},
+	{
+		"_id": 778,
+		"name": "Autres produits exceptionnels "
+	},
+	{
+		"_id": 78,
+		"name": "Reprises sur amortissements, dépréciations et provisions"
+	},
+	{
+		"_id": 781,
+		"name": "Reprises sur amortissements, dépréciations et provisions (à inscrire dans les produits d'exploitation)"
+	},
+	{
+		"_id": 7811,
+		"name": "Reprises sur amortissements des immobilisations incorporelles et corporelles "
+	},
+	{
+		"_id": 7815,
+		"name": "Reprises sur provisions d'exploitation"
+	},
+	{
+		"_id": 7816,
+		"name": "Reprises sur dépréciations des immobilisations corporelles et  incorporelles "
+	},
+	{
+		"_id": 7817,
+		"name": "Reprises sur dépréciations des actifs circulants"
+	},
+	{
+		"_id": 786,
+		"name": "Reprises sur provisions pour risques et dépréciations (à inscrire dans les produits financiers)"
+	},
+	{
+		"_id": 7865,
+		"name": "Reprises sur provisions financières"
+	},
+	{
+		"_id": 7866,
+		"name": "Reprises sur dépréciations des éléments financiers"
+	},
+	{
+		"_id": 787,
+		"name": "Reprises sur provisions et dépréciations (à inscrire dans les produits exceptionnels)"
+	},
+	{
+		"_id": 7872,
+		"name": "Reprises sur provisions réglementées (immobilisations) "
+	},
+	{
+		"_id": 7873,
+		"name": "Reprises sur provisions réglementées (stocks) "
+	},
+	{
+		"_id": 7874,
+		"name": "Reprises sur autres provisions réglementées "
+	},
+	{
+		"_id": 7875,
+		"name": "Reprises sur provisions exceptionnelles"
+	},
+	{
+		"_id": 7876,
+		"name": "Reprises sur dépréciations exceptionnelles "
+	},
+	{
+		"_id": 79,
+		"name": "Transferts de charges"
+	},
+	{
+		"_id": 791,
+		"name": "Transferts de charges d'exploitation "
+	},
+	{
+		"_id": 796,
+		"name": "Transferts de charges financières "
+	},
+	{
+		"_id": 797,
+		"name": "Transferts de charges exceptionnelles "
+	},
+	{
+		"_id": 8,
+		"name": "Comptes spéciaux"
+	},
+	{
+		"_id": 80,
+		"name": "Engagements*"
+	},
+	{
+		"_id": 801,
+		"name": "Engagements donnés par l'entité*"
+	},
+	{
+		"_id": 802,
+		"name": "Engagements recus par l'entité*"
+	},
+	{
+		"_id": 809,
+		"name": "Contrepartie des engagements*"
+	},
+	{
+		"_id": 88,
+		"name": "Résultat en instance d'affectation*"
+	},
+	{
+		"_id": 89,
+		"name": "Bilan*"
+	},
+	{
+		"_id": 890,
+		"name": "Bilan d'ouverture*"
+	},
+	{
+		"_id": 891,
+		"name": "Bilan de clôture*"
+	}
+]

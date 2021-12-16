@@ -1,52 +1,63 @@
+import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
-import ItemsList from '../core/ItemsList';
-import Message from '../core/Message';
-import { Main, ListsContainer, MessageContainer } from '../core/styled';
+import ItemsList from './ItemsList';
+import Message from './Message';
+import {
+	PageContainer,
+	ListsContainer,
+	ColLeft,
+	ColRight,
+	MessageContainer,
+} from './styled';
 
-import { getLevel1 } from '../../services/api';
+import { getShortClass, getBaseClass } from '../../services/api';
 import getAccoutFromValue from '../../lib/getAccountFromValue';
 
-function Level1() {
+function Board({ system }) {
 	const [isLoading, setIsLoading] = useState(true);
 	const [accounts, setAccounts] = useState();
 	const [ids, setIds] = useState();
 	const [names, setNames] = useState();
 	const [currentAccount, setCurrentAccount] = useState();
 	const [messageType, setMessageType] = useState();
+	let params = useParams();
+	let id = params.id;
+
+	async function fetchAccounts(id, system) {
+		let response;
+		if (system === 'short') {
+			response = await getShortClass(id);
+		} else {
+			response = await getBaseClass(id);
+		}
+
+		setAccounts(response.accounts);
+		setIds(response.ids);
+		setNames(response.names);
+		setIsLoading(false);
+	}
 
 	useEffect(() => {
-		async function fetchAccounts() {
-			const response = await getLevel1();
-			setAccounts(response.accounts);
-			setIds(response.ids);
-			setNames(response.names);
-			setIsLoading(false);
-		}
-		fetchAccounts();
-	}, []);
+		fetchAccounts(id, system);
+	}, [id, system]);
 
 	const setItemAsSelected = (item) => {
-		// Si le type de l'item est number
 		if (typeof item.value === 'number') {
-			// console.log('check for item type', typeof item.value);
 			const newArray = ids.map((id) =>
 				id.value === item.value
 					? { isSelected: true, isVisible: true, value: id.value }
 					: id
 			);
-			// console.log('newArray', newArray);
 			setIds(newArray);
 		}
-		// Si le type de l'item est string
+
 		if (typeof item.value === 'string') {
-			// console.log('check for item type', typeof item.value);
 			const newArray = names.map((name) =>
 				name.value === item.value
 					? { isSelected: true, isVisible: true, value: name.value }
 					: name
 			);
-			// console.log('newArray', newArray);
 			setNames(newArray);
 		}
 	};
@@ -138,19 +149,23 @@ function Level1() {
 			{isLoading ? (
 				<p>Chargement</p>
 			) : (
-				<Main>
+				<PageContainer>
 					<MessageContainer>
 						<Message messageType={messageType} />
 					</MessageContainer>
 
 					<ListsContainer>
-						<ItemsList items={ids} handleClick={handleClick} />
-						<ItemsList items={names} handleClick={handleClick} />
+						<ColLeft>
+							<ItemsList items={names} handleClick={handleClick} />
+						</ColLeft>
+						<ColRight>
+							<ItemsList items={ids} handleClick={handleClick} />
+						</ColRight>
 					</ListsContainer>
-				</Main>
+				</PageContainer>
 			)}
 		</div>
 	);
 }
 
-export default Level1;
+export default Board;

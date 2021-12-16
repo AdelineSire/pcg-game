@@ -1,7 +1,7 @@
 [
 	{
 		"_id": 1,
-		"name": "COMPTES DE CAPITAUX"
+		"name": "Comptes de capitaux"
 	},
 	{
 		"_id": 101,
@@ -61,7 +61,7 @@
 	},
 	{
 		"_id": 2,
-		"name": "COMPTES D'IMMOBILISATIONS"
+		"name": "Comptes d'immobilisations"
 	},
 	{
 		"_id": 20,
@@ -117,7 +117,7 @@
 	},
 	{
 		"_id": 3,
-		"name": "COMPTES DE STOCKS ET EN-COURS"
+		"name": "Comptes de stocks et en-cours"
 	},
 	{
 		"_id": 31,
@@ -169,7 +169,7 @@
 	},
 	{
 		"_id": 4,
-		"name": "COMPTES DE TIERS"
+		"name": "Comptes de tiers"
 	},
 	{
 		"_id": 400,
@@ -249,7 +249,7 @@
 	},
 	{
 		"_id": 5,
-		"name": "COMPTES FINANCIERS"
+		"name": "Comptes financiers"
 	},
 	{
 		"_id": 50,
@@ -277,7 +277,7 @@
 	},
 	{
 		"_id": 6,
-		"name": "COMPTES DE CHARGES"
+		"name": "Comptes de charges"
 	},
 	{
 		"_id": 60,
@@ -353,7 +353,7 @@
 	},
 	{
 		"_id": 7,
-		"name": "COMPTES DE PRODUITS"
+		"name": "Comptes de produits"
 	},
 	{
 		"_id": 701,
@@ -429,7 +429,7 @@
 	},
 	{
 		"_id": 8,
-		"name": "COMPTES SPECIAUX*"
+		"name": "Comptes spéciaux"
 	},
 	{
 		"_id": 801,

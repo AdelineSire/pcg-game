@@ -5,8 +5,11 @@ const resData = (res) => {
 	return res.data;
 };
 
-const getLevel1 = () => {
-	return axios.get(API_URL + 'short/level1').then(resData);
+const getShortClass = (id) => {
+	return axios.get(API_URL + 'short/' + id).then(resData);
+};
+const getBaseClass = (id) => {
+	return axios.get(API_URL + 'base/' + id).then(resData);
 };
 
-export { getLevel1 };
+export { getShortClass, getBaseClass };

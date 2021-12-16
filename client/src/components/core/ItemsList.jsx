@@ -1,15 +1,15 @@
 import { v4 as uuidv4 } from 'uuid';
 
+import { StyledList } from './styled';
 import Item from './Item';
-import { Col } from './styled';
 
 const ItemsList = ({ items, handleClick }) => {
 	return (
-		<Col>
+		<StyledList>
 			{items.map((item) => (
 				<Item key={uuidv4()} item={item} handleClick={handleClick} />
 			))}
-		</Col>
+		</StyledList>
 	);
 };
 
