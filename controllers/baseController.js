@@ -4,7 +4,7 @@ const router = express.Router();
 const { getListByKey, addPropertiesToItems, randomize } = require('../lib');
 
 const getBaseClass = (req, res) => {
-	const base = require('../public/data/base.json');
+	const base = require('./public/data/base.json');
 	const classNum = req.params.id;
 
 	const accounts = base.filter((obj) => String(obj._id).charAt(0) === classNum);

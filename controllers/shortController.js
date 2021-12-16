@@ -4,7 +4,7 @@ const router = express.Router();
 const { getListByKey, addPropertiesToItems, randomize } = require('../lib');
 
 const getShortClass = (req, res) => {
-	const short = require('../public/data/short.json');
+	const short = require('./public/data/short.json');
 	const classNum = req.params.id;
 
 	const accounts = short.filter(
