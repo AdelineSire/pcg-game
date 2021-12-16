@@ -24,21 +24,20 @@ function Board({ system }) {
 	let params = useParams();
 	let id = params.id;
 
-	async function fetchAccounts(id, system) {
-		let response;
-		if (system === 'short') {
-			response = await getShortClass(id);
-		} else {
-			response = await getBaseClass(id);
-		}
-
-		setAccounts(response.accounts);
-		setIds(response.ids);
-		setNames(response.names);
-		setIsLoading(false);
-	}
-
 	useEffect(() => {
+		async function fetchAccounts(id, system) {
+			let response;
+			if (system === 'short') {
+				response = await getShortClass(id);
+			} else {
+				response = await getBaseClass(id);
+			}
+
+			setAccounts(response.accounts);
+			setIds(response.ids);
+			setNames(response.names);
+			setIsLoading(false);
+		}
 		fetchAccounts(id, system);
 	}, [id, system]);
 
