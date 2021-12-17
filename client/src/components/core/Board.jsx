@@ -32,7 +32,7 @@ function Board({ system }) {
 			} else {
 				response = await getBaseClass(id);
 			}
-
+			console.log('response in Board', response);
 			setAccounts(response.accounts);
 			setIds(response.ids);
 			setNames(response.names);
