@@ -5,10 +5,10 @@ const resData = (res) => {
 };
 
 const getShortClass = (id) => {
-	return axios.get('short/' + id).then(resData);
+	return axios.get('/short/' + id).then(resData);
 };
 const getBaseClass = (id) => {
-	return axios.get('base/' + id).then(resData);
+	return axios.get('/base/' + id).then(resData);
 };
 
 export { getShortClass, getBaseClass };
