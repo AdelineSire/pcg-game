@@ -7,9 +7,9 @@ const getShortClass = (req, res) => {
 	const short = require('../data/short.json');
 	const classNum = req.params.id;
 
-	const accounts = short.filter(
-		(obj) => String(obj._id).charAt(0) === classNum
-	);
+	const accounts = short
+		.filter((obj) => String(obj._id).charAt(0) === classNum)
+		.filter((obj) => obj._id > 9);
 	const sample = accounts.slice(0, 8);
 	const ids = randomize(addPropertiesToItems(getListByKey(sample, '_id')));
 	const names = randomize(addPropertiesToItems(getListByKey(sample, 'name')));
